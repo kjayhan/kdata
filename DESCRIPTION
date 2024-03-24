@@ -1,7 +1,7 @@
 Package: kdata
 Type: Package
 Title: kdata: Korean Culture, Business, and Education Data
-Version: 0.1.2
+Version: 0.1.3
 Author: Kadir Jun Ayhan
 Maintainer: Kadir Jun Ayhan (k@ayhan.phd)
 Description: Generate customized data frames containing various data regarding Korean culture, business, and education.
