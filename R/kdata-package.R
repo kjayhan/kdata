@@ -6,7 +6,7 @@
 #'
 #' @name kdata-package
 #' @aliases kdata-package
-#' @title Korean Culture, Business, and Education Data
+#' @title kdata: Korean Culture, Business, and Education Data
 #' @author Kadir Jun Ayhan \email{k@ayhan.phd}
 #' @references
 #'    \url{https://ayhan.phd/}

@@ -3,7 +3,7 @@
 \docType{_PACKAGE}
 \name{kdata-package}
 \alias{kdata-package}
-\title{Korean Culture, Business, and Education Data}
+\title{kdata: Korean Culture, Business, and Education Data}
 \description{
 Generate customized data frames containing various data regarding Korean
 culture, business, and education.
