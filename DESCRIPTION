@@ -1,11 +1,11 @@
 Package: kdata
 Type: Package
-Title: What the Package Does (Title Case)
+Title: kdata: Korean Culture, Business, and Education Data
 Version: 0.1.1
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Kadir Jun Ayhan
+Maintainer: Kadir Jun Ayhan (k@ayhan.phd)
+Description: Generate customized data frames containing various data 
+regarding Korean culture, business, and education.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
