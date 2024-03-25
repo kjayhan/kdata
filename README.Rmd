@@ -31,7 +31,7 @@ table <- tibble::tribble(
 
 table |> 
   kableExtra::kbl(
-      format = "pipe",
+      format = "html",
       booktabs = TRUE,
       longtable = TRUE,
       #col.names = c(""),
