@@ -108,4 +108,4 @@ devtools::install_github("kjayhan/kdata")
 When using the `kdata` package please cite the following:
 
 - Ayhan, Kadir Jun (2024). kdata: Korean Culture, Business, and
-  Education Data. R package version 0.0.1.
+  Education Data. R package version 0.1.4.
