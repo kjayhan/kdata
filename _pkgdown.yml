@@ -3,12 +3,12 @@ home:
   title: kdata
 subtitle: Korean Culture, Business, and Education Data
 authors:
-  Kadir Jun Ayhan:
+  Kadir Jun Ayhan
   href: https://ayhan.phd
 template:
   bootstrap: 5
 bslib:
-  primary: "#0054AD"
+  primary: '#0054AD'
 border-radius: 0.5rem
 btn-border-radius: 0.25rem
 
