@@ -4,7 +4,6 @@
 # downloaded 2024.03.23
 # last updated 2024.03.26
 
-library(tidyverse)
 status_of_foreign_students_data <- readr::read_csv("data-raw/education/status_of_foreign_students_processed_data.csv")
 
 # status_of_foreign_students_data <- readr::read_csv("data-raw/education/status_of_foreign_students_data.csv")

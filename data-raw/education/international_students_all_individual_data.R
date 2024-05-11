@@ -2,8 +2,6 @@
 # https://www.data.go.kr/data/15100039/fileData.do
 # downloaded 2024.03.23
 # last updated 2024.03.26
-library(tidyverse)
-
 international_students_all_individual_data <- readr::read_csv("data-raw/education/international_students_all_individual_data.csv")
 
 # international_students_all_individual_data <- kdiplo::iso3c(international_students_all_individual_data, 'country_kr')

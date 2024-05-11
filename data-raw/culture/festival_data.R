@@ -4,8 +4,6 @@
 #some transformations on google sheets because of =googletranslate() function
 
 
-library(tidyverse)
-
 festival_data <- readr::read_csv("data-raw/culture/festival_data.csv")
 
 
