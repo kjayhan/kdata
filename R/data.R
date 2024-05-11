@@ -54,13 +54,13 @@
 #' international students in Korea, including their country of origin,
 #' visa type, and the number of students.
 #'
-#' @return Returns the raw data frame containing information on Korean festivals
+#' @return Returns the raw data frame containing information on
+#' international students in Korea.
 #'
-#' @format A data frame with 7 variables:
+#' @format A data frame with 6 variables:
 #' \describe{
 #'   \item{\code{year}}{The year of the data record.}
 #'   \item{\code{month}}{The month of the data record.}
-#'   \item{\code{country_kr}}{The name of the student's country of origin in Korean.}
 #'   \item{\code{visa}}{The type of visa held by the student (e.g., Language, Degree).}
 #'   \item{\code{no_int_student}}{The number of international students from the respective country and visa type.}
 #'   \item{\code{iso3c}}{The ISO 3-letter country code.}
@@ -74,4 +74,34 @@
 #' @source \url{https://www.data.go.kr/data/15100039/fileData.do}
 #'
 "international_students_data"
+
+
+#'
+#' International Students Data (Individual)
+#'
+
+#' @description \code{international_students_all_individual_data} A dataset
+#' containing information about individual international students in Korea,
+#' including their country of origin, university, visa type, and sex
+#' of the students.
+#'
+#' @return Returns the raw data frame containing information on
+#' international students in Korea.
+#'
+#' @format A data frame with 5 variables:
+#' \describe{
+#'   \item{\code{sex}}{The sex of the individual student.}
+#'   \item{\code{university_kr}}{The name of the university the student is attending in Korean.}
+#'   \item{\code{iso3c}}{The ISO 3-letter country code.}
+#'   \item{\code{country}}{The English name of the student's country of origin.}
+#'   \item{\code{type}}{The type of visa held by the student (e.g., Language, Degree).}
+#'}
+#'
+#' @docType data
+#' @keywords datasets
+#' @name international_students_all_individual_data
+#'
+#' @source \url{https://www.data.go.kr/data/15100039/fileData.do}
+#'
+"international_students_all_individual_data"
 

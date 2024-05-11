@@ -33,6 +33,9 @@ international_students_all_individual_data <- readr::read_csv("data-raw/educatio
 #
 # readr::write_csv(international_students_all_individual_data, "data-raw/education/international_students_all_individual_data.csv")
 
+international_students_all_individual_data <- international_students_all_individual_data |>
+  select(-country_kr, -visa)
+
 usethis::use_data(international_students_all_individual_data, overwrite = TRUE, internal = FALSE)
 
 

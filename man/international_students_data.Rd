@@ -5,11 +5,10 @@
 \alias{international_students_data}
 \title{International Students Data}
 \format{
-A data frame with 7 variables:
+A data frame with 6 variables:
 \describe{
   \item{\code{year}}{The year of the data record.}
   \item{\code{month}}{The month of the data record.}
-  \item{\code{country_kr}}{The name of the student's country of origin in Korean.}
   \item{\code{visa}}{The type of visa held by the student (e.g., Language, Degree).}
   \item{\code{no_int_student}}{The number of international students from the respective country and visa type.}
   \item{\code{iso3c}}{The ISO 3-letter country code.}
@@ -23,7 +22,8 @@ A data frame with 7 variables:
 international_students_data
 }
 \value{
-Returns the raw data frame containing information on Korean festivals
+Returns the raw data frame containing information on
+international students in Korea.
 }
 \description{
 \code{international_students_data} A dataset containing information about

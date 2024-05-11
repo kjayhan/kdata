@@ -9,7 +9,7 @@ interested in.
 
 ## Datasets
 
-<table class="table table-striped" style="width: auto !important; margin-left: auto; margin-right: auto;">
+<table class="table table-striped" style="color: black; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
 <tr>
 <th style="text-align:center;">
@@ -105,7 +105,14 @@ devtools::install_github("kjayhan/kdata")
 
 ## How to cite this package?
 
-When using the `kdata` package please cite the following:
+When using the `kdata` package please cite as the following:
 
-- Ayhan, Kadir Jun (2024). kdata: Korean Culture, Business, and
-  Education Data. R package version 0.1.4.
+``` r
+@Manual{ayhan_kdata,
+  title = {kdata: Korean Culture, Business, and Education Data},
+  author = {Kadir Jun Ayhan},
+  year = {2024},
+  note = {R package version 0.1.4.9002, https://ayhan.phd},
+  url = {https://github.com/kjayhan/kdata},
+}
+```
