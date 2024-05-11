@@ -53,7 +53,7 @@ international students in Korea, including their country of origin, sex,
 visa type, and schools
 </td>
 <td style="text-align:center;">
-Available (to-be-documented)
+Available
 </td>
 <td style="text-align:center;">
 2024-03-26
@@ -65,14 +65,17 @@ International Students Data (Schools)
 </td>
 <td style="text-align:center;">
 A dataset containing information about international students at each
-school/ university in Korea, containing information including their
-country of origin, visa type, major, TOPIK results and more
+school/ university in Korea, containing information about the number of
+international students at Korean schools, including the school’s name,
+region, the type of school (university, cyber university, etc.),
+classification (private vs. public), the field of study, and the number
+of students
 </td>
 <td style="text-align:center;">
-Available (to-be-documented)
+Available
 </td>
 <td style="text-align:center;">
-2024-03-26
+2024-05-12
 </td>
 </tr>
 <tr>

@@ -21,10 +21,9 @@ Let me know if you want me to share specific data that you are interested in.
 table <- tibble::tribble(
   ~Dataset, ~Contents, ~Status, ~Uploaded,
   "International Students Data", "A dataset containing information about international students in Korea, including their country of origin, visa type, and the number of students.", "Available", "2024-03-26",
-  "International Students Data (Individual)", "A dataset containing information about all current individual international students in Korea, including their country of origin, sex, visa type, and schools", "Available (to-be-documented)", "2024-03-26",
-  "International Students Data (Schools)", "A dataset containing information about  international students at each school/ university in Korea, containing information
-  including their country of origin, visa type, major, TOPIK results and more", 
-  "Available (to-be-documented)", "2024-03-26",
+  "International Students Data (Individual)", "A dataset containing information about all current individual international students in Korea, including their country of origin, sex, visa type, and schools", "Available", "2024-03-26",
+  "International Students Data (Schools)", "A dataset containing information about  international students at each school/ university in Korea, containing information about the number of international students at Korean schools, including the school's name, region, the type of school (university, cyber university, etc.), classification (private vs. public), the field of study, and the number of students", 
+  "Available", "2024-05-12",
   "Korean Festivals Data", "A dataset containing detailed information about festivals in Korea, including names, locations, dates, and additional details in both Korean and English.", "Available", "2024-03-23"
 )
 
