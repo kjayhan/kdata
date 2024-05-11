@@ -1,0 +1,12 @@
+# https://fanwangecon.github.io/PkgTestR/articles/ffv_pkgdown_github.html
+
+usethis::use_github_action("pkgdown")
+usethis::use_pkgdown_github_pages()
+
+# locally building site
+pkgdown::build_site()
+devtools::install_github("kjayhan/kdata")
+
+usethis::use_github_action("pkgdown")
+
+usethis::use_pkgdown_github_pages()
