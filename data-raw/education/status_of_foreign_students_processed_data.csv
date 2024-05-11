@@ -1,0 +1,1981 @@
+year,type_of_school,classification,region,school,field,number_of_students
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Humanities and social science field,6
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Natural science field,0
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Engineering field,7
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Arts and physical education field,0
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Students for language course,12
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Exchange students,12
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Korea University of Technology and Education ,Other trainees,0
+2023,University,Private,Gyeonggi-do,ACTS University ,Humanities and social science field,2
+2023,University,Private,Gyeonggi-do,ACTS University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,ACTS University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,ACTS University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,ACTS University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,ACTS University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,ACTS University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,ACTS University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,ACTS University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Ajou University ,Humanities and social science field,387
+2023,University,Private,Gyeonggi-do,Ajou University ,Natural science field,5
+2023,University,Private,Gyeonggi-do,Ajou University ,Engineering field,104
+2023,University,Private,Gyeonggi-do,Ajou University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Ajou University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Ajou University ,Students for language course,613
+2023,University,Private,Gyeonggi-do,Ajou University ,Exchange students,191
+2023,University,Private,Gyeonggi-do,Ajou University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Ajou University ,Other trainees,0
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Humanities and social science field,9
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Natural science field,1
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Engineering field,6
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Arts and physical education field,1
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Medicine field,0
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Students for language course,12
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Exchange students,1
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Visiting students,0
+2023,University,National,Gyeongsangbuk-do,Andong National University ,Other trainees,0
+2023,University,Private,Incheon,Anyang University _Campus 2,Humanities and social science field,0
+2023,University,Private,Incheon,Anyang University _Campus 2,Natural science field,0
+2023,University,Private,Incheon,Anyang University _Campus 2,Engineering field,1
+2023,University,Private,Incheon,Anyang University _Campus 2,Arts and physical education field,0
+2023,University,Private,Incheon,Anyang University _Campus 2,Medicine field,0
+2023,University,Private,Incheon,Anyang University _Campus 2,Students for language course,0
+2023,University,Private,Incheon,Anyang University _Campus 2,Exchange students,0
+2023,University,Private,Incheon,Anyang University _Campus 2,Visiting students,0
+2023,University,Private,Incheon,Anyang University _Campus 2,Other trainees,0
+2023,University,Private,Gyeonggi-do,Anyang University ,Humanities and social science field,7
+2023,University,Private,Gyeonggi-do,Anyang University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Anyang University ,Engineering field,3
+2023,University,Private,Gyeonggi-do,Anyang University ,Arts and physical education field,1
+2023,University,Private,Gyeonggi-do,Anyang University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Anyang University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Anyang University ,Exchange students,17
+2023,University,Private,Gyeonggi-do,Anyang University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Anyang University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Humanities and social science field,119
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Natural science field,11
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Engineering field,0
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Arts and physical education field,82
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Students for language course,20
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Exchange students,12
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Baekseok University ,Other trainees,0
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Humanities and social science field,1
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Natural science field,0
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Engineering field,0
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Medicine field,0
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Students for language course,0
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Exchange students,0
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Visiting students,0
+2023,University,Private,Gyeongsangnam-do,Busan Presbyterian University ,Other trainees,0
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Humanities and social science field,552
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Natural science field,0
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Engineering field,51
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Arts and physical education field,7
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Medicine field,0
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Students for language course,120
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Exchange students,273
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Visiting students,0
+2023,University,Private,Busan,Busan University Of Foreign Studies ,Other trainees,0
+2023,Cyber University (University),Private,Busan,Busandigital University ,Humanities and social science field,11
+2023,Cyber University (University),Private,Busan,Busandigital University ,Natural science field,0
+2023,Cyber University (University),Private,Busan,Busandigital University ,Engineering field,0
+2023,Cyber University (University),Private,Busan,Busandigital University ,Arts and physical education field,0
+2023,Cyber University (University),Private,Busan,Busandigital University ,Medicine field,0
+2023,Cyber University (University),Private,Busan,Busandigital University ,Students for language course,0
+2023,Cyber University (University),Private,Busan,Busandigital University ,Exchange students,0
+2023,Cyber University (University),Private,Busan,Busandigital University ,Visiting students,0
+2023,Cyber University (University),Private,Busan,Busandigital University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,CHA University ,Humanities and social science field,0
+2023,University,Private,Gyeonggi-do,CHA University ,Natural science field,2
+2023,University,Private,Gyeonggi-do,CHA University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,CHA University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,CHA University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,CHA University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,CHA University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,CHA University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,CHA University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Calvin University ,Humanities and social science field,203
+2023,University,Private,Gyeonggi-do,Calvin University ,Natural science field,94
+2023,University,Private,Gyeonggi-do,Calvin University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,Calvin University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Calvin University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Calvin University ,Students for language course,27
+2023,University,Private,Gyeonggi-do,Calvin University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Calvin University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Calvin University ,Other trainees,0
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Humanities and social science field,2
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Natural science field,0
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Engineering field,0
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Arts and physical education field,0
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Medicine field,0
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Students for language course,0
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Exchange students,0
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Visiting students,0
+2023,University,Private,Chungcheongbuk-do,Catholic Kkottongnae University ,Other trainees,0
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Humanities and social science field,29
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Natural science field,1
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Engineering field,4
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Arts and physical education field,0
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Medicine field,3
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Students for language course,45
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Exchange students,0
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Visiting students,0
+2023,University,Private,Gangwon-do,Catholic Kwandong University ,Other trainees,0
+2023,University,Private,Busan,Catholic University Of Pusan ,Humanities and social science field,218
+2023,University,Private,Busan,Catholic University Of Pusan ,Natural science field,8
+2023,University,Private,Busan,Catholic University Of Pusan ,Engineering field,11
+2023,University,Private,Busan,Catholic University Of Pusan ,Arts and physical education field,0
+2023,University,Private,Busan,Catholic University Of Pusan ,Medicine field,0
+2023,University,Private,Busan,Catholic University Of Pusan ,Students for language course,0
+2023,University,Private,Busan,Catholic University Of Pusan ,Exchange students,0
+2023,University,Private,Busan,Catholic University Of Pusan ,Visiting students,0
+2023,University,Private,Busan,Catholic University Of Pusan ,Other trainees,0
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Humanities and social science field,27
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Natural science field,0
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Engineering field,4
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Medicine field,0
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Students for language course,37
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Exchange students,0
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Visiting students,0
+2023,University,Private,Gyeongsangnam-do,Changshin University ,Other trainees,0
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Humanities and social science field,105
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Natural science field,3
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Engineering field,8
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Arts and physical education field,1
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Medicine field,0
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Students for language course,146
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Exchange students,20
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Visiting students,0
+2023,University,National,Gyeongsangnam-do,Changwon National University ,Other trainees,0
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Humanities and social science field,233
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Natural science field,1
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Engineering field,57
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Arts and physical education field,103
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Medicine field,0
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Students for language course,59
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Exchange students,9
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Visiting students,0
+2023,University,Private,Chungcheongbuk-do,Cheongju University ,Other trainees,0
+2023,University,Private,Jeollanam-do,Chodang University ,Humanities and social science field,243
+2023,University,Private,Jeollanam-do,Chodang University ,Natural science field,31
+2023,University,Private,Jeollanam-do,Chodang University ,Engineering field,84
+2023,University,Private,Jeollanam-do,Chodang University ,Arts and physical education field,8
+2023,University,Private,Jeollanam-do,Chodang University ,Medicine field,0
+2023,University,Private,Jeollanam-do,Chodang University ,Students for language course,65
+2023,University,Private,Jeollanam-do,Chodang University ,Exchange students,6
+2023,University,Private,Jeollanam-do,Chodang University ,Visiting students,0
+2023,University,Private,Jeollanam-do,Chodang University ,Other trainees,0
+2023,University,Private,Seoul,Chongshin University ,Humanities and social science field,5
+2023,University,Private,Seoul,Chongshin University ,Natural science field,0
+2023,University,Private,Seoul,Chongshin University ,Engineering field,0
+2023,University,Private,Seoul,Chongshin University ,Arts and physical education field,0
+2023,University,Private,Seoul,Chongshin University ,Medicine field,0
+2023,University,Private,Seoul,Chongshin University ,Students for language course,107
+2023,University,Private,Seoul,Chongshin University ,Exchange students,0
+2023,University,Private,Seoul,Chongshin University ,Visiting students,0
+2023,University,Private,Seoul,Chongshin University ,Other trainees,0
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Humanities and social science field,77
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Natural science field,5
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Engineering field,16
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Arts and physical education field,0
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Medicine field,0
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Students for language course,0
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Exchange students,4
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Visiting students,0
+2023,University,National,Jeollanam-do,Chonnam National University _Campus 2,Other trainees,0
+2023,University,National,Gwangju,Chonnam National University ,Humanities and social science field,335
+2023,University,National,Gwangju,Chonnam National University ,Natural science field,57
+2023,University,National,Gwangju,Chonnam National University ,Engineering field,73
+2023,University,National,Gwangju,Chonnam National University ,Arts and physical education field,20
+2023,University,National,Gwangju,Chonnam National University ,Medicine field,0
+2023,University,National,Gwangju,Chonnam National University ,Students for language course,171
+2023,University,National,Gwangju,Chonnam National University ,Exchange students,110
+2023,University,National,Gwangju,Chonnam National University ,Visiting students,7
+2023,University,National,Gwangju,Chonnam National University ,Other trainees,0
+2023,University,Private,Gwangju,Chosun University ,Humanities and social science field,183
+2023,University,Private,Gwangju,Chosun University ,Natural science field,12
+2023,University,Private,Gwangju,Chosun University ,Engineering field,58
+2023,University,Private,Gwangju,Chosun University ,Arts and physical education field,24
+2023,University,Private,Gwangju,Chosun University ,Medicine field,0
+2023,University,Private,Gwangju,Chosun University ,Students for language course,0
+2023,University,Private,Gwangju,Chosun University ,Exchange students,23
+2023,University,Private,Gwangju,Chosun University ,Visiting students,0
+2023,University,Private,Gwangju,Chosun University ,Other trainees,0
+2023,University,Private,Seoul,Chugye University For The Arts ,Humanities and social science field,21
+2023,University,Private,Seoul,Chugye University For The Arts ,Natural science field,0
+2023,University,Private,Seoul,Chugye University For The Arts ,Engineering field,0
+2023,University,Private,Seoul,Chugye University For The Arts ,Arts and physical education field,8
+2023,University,Private,Seoul,Chugye University For The Arts ,Medicine field,0
+2023,University,Private,Seoul,Chugye University For The Arts ,Students for language course,0
+2023,University,Private,Seoul,Chugye University For The Arts ,Exchange students,0
+2023,University,Private,Seoul,Chugye University For The Arts ,Visiting students,0
+2023,University,Private,Seoul,Chugye University For The Arts ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Humanities and social science field,0
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Natural science field,14
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Engineering field,6
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Arts and physical education field,760
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Medicine field,0
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Students for language course,80
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Exchange students,9
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Visiting students,0
+2023,University,Private,Gyeonggi-do,Chung-Ang University _Campus 2,Other trainees,0
+2023,University,Private,Seoul,Chung-Ang University ,Humanities and social science field,1890
+2023,University,Private,Seoul,Chung-Ang University ,Natural science field,21
+2023,University,Private,Seoul,Chung-Ang University ,Engineering field,190
+2023,University,Private,Seoul,Chung-Ang University ,Arts and physical education field,7
+2023,University,Private,Seoul,Chung-Ang University ,Medicine field,6
+2023,University,Private,Seoul,Chung-Ang University ,Students for language course,604
+2023,University,Private,Seoul,Chung-Ang University ,Exchange students,379
+2023,University,Private,Seoul,Chung-Ang University ,Visiting students,0
+2023,University,Private,Seoul,Chung-Ang University ,Other trainees,0
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Humanities and social science field,298
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Natural science field,36
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Engineering field,62
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Arts and physical education field,8
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Medicine field,1
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Students for language course,226
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Exchange students,80
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Visiting students,0
+2023,University,National,Chungcheongbuk-do,Chungbuk National University ,Other trainees,0
+2023,University,National,Daejeon,Chungnam National University ,Humanities and social science field,261
+2023,University,National,Daejeon,Chungnam National University ,Natural science field,33
+2023,University,National,Daejeon,Chungnam National University ,Engineering field,40
+2023,University,National,Daejeon,Chungnam National University ,Arts and physical education field,2
+2023,University,National,Daejeon,Chungnam National University ,Medicine field,0
+2023,University,National,Daejeon,Chungnam National University ,Students for language course,209
+2023,University,National,Daejeon,Chungnam National University ,Exchange students,63
+2023,University,National,Daejeon,Chungnam National University ,Visiting students,0
+2023,University,National,Daejeon,Chungnam National University ,Other trainees,0
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Humanities and social science field,153
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Natural science field,0
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Engineering field,17
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Arts and physical education field,16
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Medicine field,0
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Students for language course,148
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Exchange students,0
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Visiting students,0
+2023,Industrial University,Private,Chungcheongnam-do,Chungwoon University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Humanities and social science field,289
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Natural science field,0
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Engineering field,0
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Arts and physical education field,0
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Cyber Hankuk University Of Foreign Studies ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Humanities and social science field,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Natural science field,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Engineering field,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Students for language course,35
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Exchange students,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Arts University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Humanities and social science field,112
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Natural science field,5
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Engineering field,14
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Arts and physical education field,28
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Students for language course,35
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Exchange students,14
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Catholic University ,Other trainees,0
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Humanities and social science field,13
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Natural science field,3
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Engineering field,5
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Arts and physical education field,0
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Gyeongsangbuk-do,Daegu Cyber University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Humanities and social science field,118
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Natural science field,83
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Engineering field,53
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Arts and physical education field,25
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Students for language course,543
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Exchange students,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Daegu Haany University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Humanities and social science field,798
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Natural science field,31
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Engineering field,97
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Arts and physical education field,99
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Students for language course,199
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Exchange students,191
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Daegu University ,Other trainees,0
+2023,University,Private,Daejeon,Daejeon University ,Humanities and social science field,204
+2023,University,Private,Daejeon,Daejeon University ,Natural science field,47
+2023,University,Private,Daejeon,Daejeon University ,Engineering field,18
+2023,University,Private,Daejeon,Daejeon University ,Arts and physical education field,7
+2023,University,Private,Daejeon,Daejeon University ,Medicine field,1
+2023,University,Private,Daejeon,Daejeon University ,Students for language course,212
+2023,University,Private,Daejeon,Daejeon University ,Exchange students,16
+2023,University,Private,Daejeon,Daejeon University ,Visiting students,0
+2023,University,Private,Daejeon,Daejeon University ,Other trainees,0
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Humanities and social science field,2
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Natural science field,0
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Engineering field,0
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Arts and physical education field,0
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Medicine field,0
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Students for language course,0
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Exchange students,0
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Visiting students,0
+2023,University,Private,Sejong,Daejeoncatholicuniversity ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Daejin University ,Humanities and social science field,191
+2023,University,Private,Gyeonggi-do,Daejin University ,Natural science field,1
+2023,University,Private,Gyeonggi-do,Daejin University ,Engineering field,7
+2023,University,Private,Gyeonggi-do,Daejin University ,Arts and physical education field,31
+2023,University,Private,Gyeonggi-do,Daejin University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Daejin University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Daejin University ,Exchange students,26
+2023,University,Private,Gyeonggi-do,Daejin University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Daejin University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Humanities and social science field,2
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Natural science field,0
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Engineering field,0
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Students for language course,70
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Exchange students,0
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Daeshin University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Humanities and social science field,46
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Natural science field,19
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Engineering field,2
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Arts and physical education field,43
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Students for language course,58
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Exchange students,6
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Dankook University _Campus 2,Other trainees,0
+2023,University,Private,Gyeonggi-do,Dankook University ,Humanities and social science field,311
+2023,University,Private,Gyeonggi-do,Dankook University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Dankook University ,Engineering field,44
+2023,University,Private,Gyeonggi-do,Dankook University ,Arts and physical education field,359
+2023,University,Private,Gyeonggi-do,Dankook University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Dankook University ,Students for language course,59
+2023,University,Private,Gyeonggi-do,Dankook University ,Exchange students,157
+2023,University,Private,Gyeonggi-do,Dankook University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Dankook University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Humanities and social science field,20
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Natural science field,0
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Engineering field,0
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Arts and physical education field,5
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Digital Seoul Culture Arts University ,Other trainees,0
+2023,University,Private,Busan,Dong-A University ,Humanities and social science field,322
+2023,University,Private,Busan,Dong-A University ,Natural science field,13
+2023,University,Private,Busan,Dong-A University ,Engineering field,22
+2023,University,Private,Busan,Dong-A University ,Arts and physical education field,8
+2023,University,Private,Busan,Dong-A University ,Medicine field,0
+2023,University,Private,Busan,Dong-A University ,Students for language course,493
+2023,University,Private,Busan,Dong-A University ,Exchange students,79
+2023,University,Private,Busan,Dong-A University ,Visiting students,0
+2023,University,Private,Busan,Dong-A University ,Other trainees,0
+2023,University,Private,Busan,Dong-Eui University ,Humanities and social science field,96
+2023,University,Private,Busan,Dong-Eui University ,Natural science field,6
+2023,University,Private,Busan,Dong-Eui University ,Engineering field,22
+2023,University,Private,Busan,Dong-Eui University ,Arts and physical education field,17
+2023,University,Private,Busan,Dong-Eui University ,Medicine field,0
+2023,University,Private,Busan,Dong-Eui University ,Students for language course,12
+2023,University,Private,Busan,Dong-Eui University ,Exchange students,22
+2023,University,Private,Busan,Dong-Eui University ,Visiting students,0
+2023,University,Private,Busan,Dong-Eui University ,Other trainees,0
+2023,University,Private,Seoul,Dongduk Women's University ,Humanities and social science field,8
+2023,University,Private,Seoul,Dongduk Women's University ,Natural science field,4
+2023,University,Private,Seoul,Dongduk Women's University ,Engineering field,0
+2023,University,Private,Seoul,Dongduk Women's University ,Arts and physical education field,6
+2023,University,Private,Seoul,Dongduk Women's University ,Medicine field,0
+2023,University,Private,Seoul,Dongduk Women's University ,Students for language course,205
+2023,University,Private,Seoul,Dongduk Women's University ,Exchange students,2
+2023,University,Private,Seoul,Dongduk Women's University ,Visiting students,0
+2023,University,Private,Seoul,Dongduk Women's University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Humanities and social science field,116
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Natural science field,14
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Engineering field,4
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Arts and physical education field,2
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Medicine field,12
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Students for language course,28
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Exchange students,5
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Dongguk University _Branch campus,Other trainees,0
+2023,University,Private,Seoul,Dongguk University ,Humanities and social science field,720
+2023,University,Private,Seoul,Dongguk University ,Natural science field,9
+2023,University,Private,Seoul,Dongguk University ,Engineering field,62
+2023,University,Private,Seoul,Dongguk University ,Arts and physical education field,194
+2023,University,Private,Seoul,Dongguk University ,Medicine field,0
+2023,University,Private,Seoul,Dongguk University ,Students for language course,649
+2023,University,Private,Seoul,Dongguk University ,Exchange students,199
+2023,University,Private,Seoul,Dongguk University ,Visiting students,0
+2023,University,Private,Seoul,Dongguk University ,Other trainees,0
+2023,University,Private,Busan,Dongseo University ,Humanities and social science field,157
+2023,University,Private,Busan,Dongseo University ,Natural science field,1
+2023,University,Private,Busan,Dongseo University ,Engineering field,33
+2023,University,Private,Busan,Dongseo University ,Arts and physical education field,27
+2023,University,Private,Busan,Dongseo University ,Medicine field,0
+2023,University,Private,Busan,Dongseo University ,Students for language course,183
+2023,University,Private,Busan,Dongseo University ,Exchange students,61
+2023,University,Private,Busan,Dongseo University ,Visiting students,0
+2023,University,Private,Busan,Dongseo University ,Other trainees,0
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Humanities and social science field,251
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Natural science field,8
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Engineering field,27
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Arts and physical education field,18
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Medicine field,0
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Students for language course,70
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Exchange students,0
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Visiting students,0
+2023,University,Private,Jeollanam-do,Dongshinuniversity ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Humanities and social science field,82
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Natural science field,0
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Engineering field,3
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Students for language course,64
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Exchange students,0
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Dongyang University ,Other trainees,0
+2023,University,Private,Seoul,Duksung Women'S University ,Humanities and social science field,103
+2023,University,Private,Seoul,Duksung Women'S University ,Natural science field,3
+2023,University,Private,Seoul,Duksung Women'S University ,Engineering field,9
+2023,University,Private,Seoul,Duksung Women'S University ,Arts and physical education field,6
+2023,University,Private,Seoul,Duksung Women'S University ,Medicine field,0
+2023,University,Private,Seoul,Duksung Women'S University ,Students for language course,269
+2023,University,Private,Seoul,Duksung Women'S University ,Exchange students,93
+2023,University,Private,Seoul,Duksung Women'S University ,Visiting students,0
+2023,University,Private,Seoul,Duksung Women'S University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Humanities and social science field,1
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Natural science field,8
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Engineering field,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Medicine field,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Students for language course,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Exchange students,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Visiting students,5
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 2,Other trainees,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Humanities and social science field,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Natural science field,1
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Engineering field,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Medicine field,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Students for language course,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Exchange students,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Visiting students,0
+2023,University,Private,Gyeonggi-do,Eulji University _Campus 3,Other trainees,0
+2023,University,Private,Daejeon,Eulji University ,Humanities and social science field,0
+2023,University,Private,Daejeon,Eulji University ,Natural science field,0
+2023,University,Private,Daejeon,Eulji University ,Engineering field,0
+2023,University,Private,Daejeon,Eulji University ,Arts and physical education field,0
+2023,University,Private,Daejeon,Eulji University ,Medicine field,2
+2023,University,Private,Daejeon,Eulji University ,Students for language course,0
+2023,University,Private,Daejeon,Eulji University ,Exchange students,0
+2023,University,Private,Daejeon,Eulji University ,Visiting students,0
+2023,University,Private,Daejeon,Eulji University ,Other trainees,0
+2023,University,Private,Seoul,Ewha Womans University ,Humanities and social science field,572
+2023,University,Private,Seoul,Ewha Womans University ,Natural science field,46
+2023,University,Private,Seoul,Ewha Womans University ,Engineering field,43
+2023,University,Private,Seoul,Ewha Womans University ,Arts and physical education field,80
+2023,University,Private,Seoul,Ewha Womans University ,Medicine field,0
+2023,University,Private,Seoul,Ewha Womans University ,Students for language course,362
+2023,University,Private,Seoul,Ewha Womans University ,Exchange students,286
+2023,University,Private,Seoul,Ewha Womans University ,Visiting students,28
+2023,University,Private,Seoul,Ewha Womans University ,Other trainees,0
+2023,University,Private,Chungcheongbuk-do,Far East University ,Humanities and social science field,141
+2023,University,Private,Chungcheongbuk-do,Far East University ,Natural science field,1
+2023,University,Private,Chungcheongbuk-do,Far East University ,Engineering field,29
+2023,University,Private,Chungcheongbuk-do,Far East University ,Arts and physical education field,3
+2023,University,Private,Chungcheongbuk-do,Far East University ,Medicine field,0
+2023,University,Private,Chungcheongbuk-do,Far East University ,Students for language course,85
+2023,University,Private,Chungcheongbuk-do,Far East University ,Exchange students,0
+2023,University,Private,Chungcheongbuk-do,Far East University ,Visiting students,0
+2023,University,Private,Chungcheongbuk-do,Far East University ,Other trainees,0
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Humanities and social science field,478
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Natural science field,0
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Engineering field,0
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Arts and physical education field,0
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Medicine field,0
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Students for language course,38
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Exchange students,0
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Visiting students,0
+2023,University,Private,Seoul,GANGSEO UNIVERSITY ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Gachon University ,Humanities and social science field,1940
+2023,University,Private,Gyeonggi-do,Gachon University ,Natural science field,46
+2023,University,Private,Gyeonggi-do,Gachon University ,Engineering field,208
+2023,University,Private,Gyeonggi-do,Gachon University ,Arts and physical education field,218
+2023,University,Private,Gyeonggi-do,Gachon University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Gachon University ,Students for language course,264
+2023,University,Private,Gyeonggi-do,Gachon University ,Exchange students,67
+2023,University,Private,Gyeonggi-do,Gachon University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Gachon University ,Other trainees,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Humanities and social science field,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Natural science field,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Engineering field,7
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Arts and physical education field,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Medicine field,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Students for language course,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Exchange students,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Visiting students,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University _Campus 2,Other trainees,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Humanities and social science field,153
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Natural science field,1
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Engineering field,8
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Arts and physical education field,4
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Medicine field,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Students for language course,75
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Exchange students,6
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Visiting students,0
+2023,University,National,Gangwon-do,Gangneung Wonju National University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Humanities and social science field,0
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Natural science field,0
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Engineering field,0
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Arts and physical education field,0
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Students for language course,0
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Exchange students,1
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Geumgang University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Humanities and social science field,64
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Natural science field,50
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Engineering field,34
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Arts and physical education field,2
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Students for language course,287
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Exchange students,2
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Gimcheon University ,Other trainees,0
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Humanities and social science field,11
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Natural science field,0
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Engineering field,0
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Arts and physical education field,9
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Chungcheongnam-do,Global Cyber University ,Other trainees,0
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Humanities and social science field,8
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Natural science field,0
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Engineering field,0
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Arts and physical education field,0
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Gyeonggi-do,Gukje Cyber University ,Other trainees,0
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Humanities and social science field,0
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Natural science field,16
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Engineering field,10
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Arts and physical education field,0
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Medicine field,0
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Students for language course,0
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Exchange students,8
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Visiting students,0
+2023,University,Special Act for corporation,Gwangju,Gwangju Institute Of Science And Technology ,Other trainees,0
+2023,University,Private,Gwangju,Gwangju University ,Humanities and social science field,177
+2023,University,Private,Gwangju,Gwangju University ,Natural science field,1
+2023,University,Private,Gwangju,Gwangju University ,Engineering field,2
+2023,University,Private,Gwangju,Gwangju University ,Arts and physical education field,5
+2023,University,Private,Gwangju,Gwangju University ,Medicine field,0
+2023,University,Private,Gwangju,Gwangju University ,Students for language course,131
+2023,University,Private,Gwangju,Gwangju University ,Exchange students,0
+2023,University,Private,Gwangju,Gwangju University ,Visiting students,0
+2023,University,Private,Gwangju,Gwangju University ,Other trainees,0
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Humanities and social science field,0
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Natural science field,0
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Engineering field,0
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Arts and physical education field,0
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Medicine field,0
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Students for language course,0
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Exchange students,1
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Visiting students,0
+2023,College of Education,National,Incheon,Gyeongin National University Of Education ,Other trainees,0
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Humanities and social science field,96
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Natural science field,13
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Engineering field,10
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Arts and physical education field,0
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Medicine field,0
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Students for language course,45
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Exchange students,41
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Visiting students,0
+2023,University,National,Gyeongsangnam-do,Gyeongsang National University ,Other trainees,0
+2023,University,Private,Gangwon-do,Halla University ,Humanities and social science field,102
+2023,University,Private,Gangwon-do,Halla University ,Natural science field,0
+2023,University,Private,Gangwon-do,Halla University ,Engineering field,4
+2023,University,Private,Gangwon-do,Halla University ,Arts and physical education field,10
+2023,University,Private,Gangwon-do,Halla University ,Medicine field,0
+2023,University,Private,Gangwon-do,Halla University ,Students for language course,162
+2023,University,Private,Gangwon-do,Halla University ,Exchange students,0
+2023,University,Private,Gangwon-do,Halla University ,Visiting students,0
+2023,University,Private,Gangwon-do,Halla University ,Other trainees,0
+2023,University,Private,Gangwon-do,Hallym University ,Humanities and social science field,180
+2023,University,Private,Gangwon-do,Hallym University ,Natural science field,2
+2023,University,Private,Gangwon-do,Hallym University ,Engineering field,12
+2023,University,Private,Gangwon-do,Hallym University ,Arts and physical education field,1
+2023,University,Private,Gangwon-do,Hallym University ,Medicine field,0
+2023,University,Private,Gangwon-do,Hallym University ,Students for language course,4
+2023,University,Private,Gangwon-do,Hallym University ,Exchange students,53
+2023,University,Private,Gangwon-do,Hallym University ,Visiting students,0
+2023,University,Private,Gangwon-do,Hallym University ,Other trainees,0
+2023,University,National,Daejeon,Hanbat National University ,Humanities and social science field,59
+2023,University,National,Daejeon,Hanbat National University ,Natural science field,0
+2023,University,National,Daejeon,Hanbat National University ,Engineering field,13
+2023,University,National,Daejeon,Hanbat National University ,Arts and physical education field,11
+2023,University,National,Daejeon,Hanbat National University ,Medicine field,0
+2023,University,National,Daejeon,Hanbat National University ,Students for language course,239
+2023,University,National,Daejeon,Hanbat National University ,Exchange students,55
+2023,University,National,Daejeon,Hanbat National University ,Visiting students,0
+2023,University,National,Daejeon,Hanbat National University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Humanities and social science field,121
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Natural science field,0
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Engineering field,23
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Students for language course,0
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Exchange students,43
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Handong Global University ,Other trainees,0
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Humanities and social science field,7
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Natural science field,0
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Engineering field,0
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Arts and physical education field,0
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Medicine field,0
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Students for language course,135
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Exchange students,0
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Visiting students,0
+2023,University,Private,Jeollabuk-do,Haniluniv.&Presb.Theol.Sem. ,Other trainees,0
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Humanities and social science field,1729
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Natural science field,2
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Engineering field,14
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Arts and physical education field,0
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Medicine field,0
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Students for language course,378
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Exchange students,355
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Visiting students,81
+2023,University,Private,Seoul,Hankuk University Of Foreign Studies ,Other trainees,4
+2023,University,National,Gyeonggi-do,Hankyong National University ,Humanities and social science field,31
+2023,University,National,Gyeonggi-do,Hankyong National University ,Natural science field,9
+2023,University,National,Gyeonggi-do,Hankyong National University ,Engineering field,18
+2023,University,National,Gyeonggi-do,Hankyong National University ,Arts and physical education field,2
+2023,University,National,Gyeonggi-do,Hankyong National University ,Medicine field,0
+2023,University,National,Gyeonggi-do,Hankyong National University ,Students for language course,233
+2023,University,National,Gyeonggi-do,Hankyong National University ,Exchange students,52
+2023,University,National,Gyeonggi-do,Hankyong National University ,Visiting students,0
+2023,University,National,Gyeonggi-do,Hankyong National University ,Other trainees,0
+2023,University,Private,Daejeon,Hannam University ,Humanities and social science field,320
+2023,University,Private,Daejeon,Hannam University ,Natural science field,4
+2023,University,Private,Daejeon,Hannam University ,Engineering field,35
+2023,University,Private,Daejeon,Hannam University ,Arts and physical education field,14
+2023,University,Private,Daejeon,Hannam University ,Medicine field,0
+2023,University,Private,Daejeon,Hannam University ,Students for language course,486
+2023,University,Private,Daejeon,Hannam University ,Exchange students,0
+2023,University,Private,Daejeon,Hannam University ,Visiting students,0
+2023,University,Private,Daejeon,Hannam University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Hansei University ,Humanities and social science field,11
+2023,University,Private,Gyeonggi-do,Hansei University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Hansei University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,Hansei University ,Arts and physical education field,7
+2023,University,Private,Gyeonggi-do,Hansei University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Hansei University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Hansei University ,Exchange students,7
+2023,University,Private,Gyeonggi-do,Hansei University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Hansei University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Humanities and social science field,100
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Natural science field,13
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Engineering field,15
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Arts and physical education field,52
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Students for language course,49
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Exchange students,14
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Hanseo University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Hanshin University ,Humanities and social science field,296
+2023,University,Private,Gyeonggi-do,Hanshin University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Hanshin University ,Engineering field,19
+2023,University,Private,Gyeonggi-do,Hanshin University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Hanshin University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Hanshin University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Hanshin University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Hanshin University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Hanshin University ,Other trainees,0
+2023,University,Private,Seoul,Hansung University ,Humanities and social science field,100
+2023,University,Private,Seoul,Hansung University ,Natural science field,0
+2023,University,Private,Seoul,Hansung University ,Engineering field,6
+2023,University,Private,Seoul,Hansung University ,Arts and physical education field,159
+2023,University,Private,Seoul,Hansung University ,Medicine field,0
+2023,University,Private,Seoul,Hansung University ,Students for language course,107
+2023,University,Private,Seoul,Hansung University ,Exchange students,8
+2023,University,Private,Seoul,Hansung University ,Visiting students,0
+2023,University,Private,Seoul,Hansung University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Humanities and social science field,45
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Natural science field,0
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Engineering field,9
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Arts and physical education field,10
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Hanyang Cyber University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Humanities and social science field,822
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Natural science field,20
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Engineering field,277
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Arts and physical education field,512
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Medicine field,0
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Students for language course,220
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Exchange students,168
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Visiting students,83
+2023,University,Private,Gyeonggi-do,Hanyang University Erica Campus _Branch campus,Other trainees,0
+2023,University,Private,Seoul,Hanyang University ,Humanities and social science field,1242
+2023,University,Private,Seoul,Hanyang University ,Natural science field,90
+2023,University,Private,Seoul,Hanyang University ,Engineering field,342
+2023,University,Private,Seoul,Hanyang University ,Arts and physical education field,332
+2023,University,Private,Seoul,Hanyang University ,Medicine field,0
+2023,University,Private,Seoul,Hanyang University ,Students for language course,1034
+2023,University,Private,Seoul,Hanyang University ,Exchange students,178
+2023,University,Private,Seoul,Hanyang University ,Visiting students,233
+2023,University,Private,Seoul,Hanyang University ,Other trainees,0
+2023,University,Private,Gwangju,Honam University ,Humanities and social science field,611
+2023,University,Private,Gwangju,Honam University ,Natural science field,9
+2023,University,Private,Gwangju,Honam University ,Engineering field,40
+2023,University,Private,Gwangju,Honam University ,Arts and physical education field,107
+2023,University,Private,Gwangju,Honam University ,Medicine field,0
+2023,University,Private,Gwangju,Honam University ,Students for language course,89
+2023,University,Private,Gwangju,Honam University ,Exchange students,65
+2023,University,Private,Gwangju,Honam University ,Visiting students,0
+2023,University,Private,Gwangju,Honam University ,Other trainees,0
+2023,University,Private,Sejong,Hongik University _Campus 2,Humanities and social science field,1
+2023,University,Private,Sejong,Hongik University _Campus 2,Natural science field,0
+2023,University,Private,Sejong,Hongik University _Campus 2,Engineering field,9
+2023,University,Private,Sejong,Hongik University _Campus 2,Arts and physical education field,86
+2023,University,Private,Sejong,Hongik University _Campus 2,Medicine field,0
+2023,University,Private,Sejong,Hongik University _Campus 2,Students for language course,0
+2023,University,Private,Sejong,Hongik University _Campus 2,Exchange students,0
+2023,University,Private,Sejong,Hongik University _Campus 2,Visiting students,0
+2023,University,Private,Sejong,Hongik University _Campus 2,Other trainees,0
+2023,University,Private,Seoul,Hongik University ,Humanities and social science field,50
+2023,University,Private,Seoul,Hongik University ,Natural science field,0
+2023,University,Private,Seoul,Hongik University ,Engineering field,55
+2023,University,Private,Seoul,Hongik University ,Arts and physical education field,989
+2023,University,Private,Seoul,Hongik University ,Medicine field,0
+2023,University,Private,Seoul,Hongik University ,Students for language course,367
+2023,University,Private,Seoul,Hongik University ,Exchange students,100
+2023,University,Private,Seoul,Hongik University ,Visiting students,1
+2023,University,Private,Seoul,Hongik University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Humanities and social science field,90
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Natural science field,15
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Engineering field,28
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Arts and physical education field,133
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Students for language course,131
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Exchange students,10
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Hoseo University ,Other trainees,0
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Humanities and social science field,190
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Natural science field,44
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Engineering field,84
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Arts and physical education field,47
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Medicine field,0
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Students for language course,552
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Exchange students,0
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Visiting students,0
+2023,Industrial University,Private,Jeollabuk-do,Howon University ,Other trainees,0
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Humanities and social science field,9
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Natural science field,0
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Engineering field,0
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Arts and physical education field,0
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Busan,Hwashin Cyber University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Humanities and social science field,29
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Engineering field,0
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Hyupsunguniversity ,Other trainees,0
+2023,University,Private,Incheon,Incheon Catholic University ,Humanities and social science field,4
+2023,University,Private,Incheon,Incheon Catholic University ,Natural science field,0
+2023,University,Private,Incheon,Incheon Catholic University ,Engineering field,0
+2023,University,Private,Incheon,Incheon Catholic University ,Arts and physical education field,0
+2023,University,Private,Incheon,Incheon Catholic University ,Medicine field,0
+2023,University,Private,Incheon,Incheon Catholic University ,Students for language course,0
+2023,University,Private,Incheon,Incheon Catholic University ,Exchange students,0
+2023,University,Private,Incheon,Incheon Catholic University ,Visiting students,0
+2023,University,Private,Incheon,Incheon Catholic University ,Other trainees,0
+2023,University,National university corporation,Incheon,Incheon National University ,Humanities and social science field,185
+2023,University,National university corporation,Incheon,Incheon National University ,Natural science field,8
+2023,University,National university corporation,Incheon,Incheon National University ,Engineering field,19
+2023,University,National university corporation,Incheon,Incheon National University ,Arts and physical education field,10
+2023,University,National university corporation,Incheon,Incheon National University ,Medicine field,0
+2023,University,National university corporation,Incheon,Incheon National University ,Students for language course,67
+2023,University,National university corporation,Incheon,Incheon National University ,Exchange students,116
+2023,University,National university corporation,Incheon,Incheon National University ,Visiting students,0
+2023,University,National university corporation,Incheon,Incheon National University ,Other trainees,0
+2023,University,Private,Incheon,Inha University ,Humanities and social science field,880
+2023,University,Private,Incheon,Inha University ,Natural science field,26
+2023,University,Private,Incheon,Inha University ,Engineering field,302
+2023,University,Private,Incheon,Inha University ,Arts and physical education field,10
+2023,University,Private,Incheon,Inha University ,Medicine field,1
+2023,University,Private,Incheon,Inha University ,Students for language course,402
+2023,University,Private,Incheon,Inha University ,Exchange students,265
+2023,University,Private,Incheon,Inha University ,Visiting students,0
+2023,University,Private,Incheon,Inha University ,Other trainees,0
+2023,University,Private,Gyeongsangnam-do,Inje University ,Humanities and social science field,138
+2023,University,Private,Gyeongsangnam-do,Inje University ,Natural science field,6
+2023,University,Private,Gyeongsangnam-do,Inje University ,Engineering field,21
+2023,University,Private,Gyeongsangnam-do,Inje University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangnam-do,Inje University ,Medicine field,0
+2023,University,Private,Gyeongsangnam-do,Inje University ,Students for language course,311
+2023,University,Private,Gyeongsangnam-do,Inje University ,Exchange students,13
+2023,University,Private,Gyeongsangnam-do,Inje University ,Visiting students,0
+2023,University,Private,Gyeongsangnam-do,Inje University ,Other trainees,0
+2023,University,National,Jeju,Jeju National University ,Humanities and social science field,108
+2023,University,National,Jeju,Jeju National University ,Natural science field,48
+2023,University,National,Jeju,Jeju National University ,Engineering field,25
+2023,University,National,Jeju,Jeju National University ,Arts and physical education field,8
+2023,University,National,Jeju,Jeju National University ,Medicine field,3
+2023,University,National,Jeju,Jeju National University ,Students for language course,124
+2023,University,National,Jeju,Jeju National University ,Exchange students,22
+2023,University,National,Jeju,Jeju National University ,Visiting students,0
+2023,University,National,Jeju,Jeju National University ,Other trainees,0
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Humanities and social science field,16
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Natural science field,0
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Engineering field,1
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Arts and physical education field,7
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Medicine field,0
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Students for language course,104
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Exchange students,0
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Visiting students,0
+2023,University,Private,Jeju,Jejuinternationaluniversity ,Other trainees,0
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Humanities and social science field,424
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Natural science field,41
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Engineering field,155
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Arts and physical education field,23
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Medicine field,0
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Students for language course,177
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Exchange students,186
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Visiting students,0
+2023,University,National,Jeollabuk-do,Jeonbuk National University ,Other trainees,0
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Humanities and social science field,0
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Natural science field,1
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Engineering field,0
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Arts and physical education field,0
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Medicine field,0
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Students for language course,0
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Exchange students,0
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Visiting students,0
+2023,College of Education,National,Jeollabuk-do,Jeonju National University Of Education ,Other trainees,0
+2023,University,Private,Jeollabuk-do,Jeonju University ,Humanities and social science field,375
+2023,University,Private,Jeollabuk-do,Jeonju University ,Natural science field,41
+2023,University,Private,Jeollabuk-do,Jeonju University ,Engineering field,69
+2023,University,Private,Jeollabuk-do,Jeonju University ,Arts and physical education field,63
+2023,University,Private,Jeollabuk-do,Jeonju University ,Medicine field,0
+2023,University,Private,Jeollabuk-do,Jeonju University ,Students for language course,0
+2023,University,Private,Jeollabuk-do,Jeonju University ,Exchange students,0
+2023,University,Private,Jeollabuk-do,Jeonju University ,Visiting students,0
+2023,University,Private,Jeollabuk-do,Jeonju University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Humanities and social science field,323
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Natural science field,123
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Engineering field,55
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Arts and physical education field,68
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Students for language course,127
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Exchange students,14
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Joongbu University ,Other trainees,0
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Humanities and social science field,31
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Natural science field,4
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Engineering field,3
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Arts and physical education field,7
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Medicine field,0
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Students for language course,0
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Exchange students,0
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Visiting students,0
+2023,University,Private,Chungcheongbuk-do,Jungwon University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Kangnam University ,Humanities and social science field,93
+2023,University,Private,Gyeonggi-do,Kangnam University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Kangnam University ,Engineering field,9
+2023,University,Private,Gyeonggi-do,Kangnam University ,Arts and physical education field,3
+2023,University,Private,Gyeonggi-do,Kangnam University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Kangnam University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Kangnam University ,Exchange students,13
+2023,University,Private,Gyeonggi-do,Kangnam University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Kangnam University ,Other trainees,0
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Humanities and social science field,14
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Natural science field,5
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Engineering field,9
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Arts and physical education field,12
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Medicine field,0
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Students for language course,0
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Exchange students,0
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Visiting students,0
+2023,University,National,Gangwon-do,Kangwon National University _Campus 2,Other trainees,0
+2023,University,National,Gangwon-do,Kangwon National University ,Humanities and social science field,112
+2023,University,National,Gangwon-do,Kangwon National University ,Natural science field,21
+2023,University,National,Gangwon-do,Kangwon National University ,Engineering field,25
+2023,University,National,Gangwon-do,Kangwon National University ,Arts and physical education field,9
+2023,University,National,Gangwon-do,Kangwon National University ,Medicine field,0
+2023,University,National,Gangwon-do,Kangwon National University ,Students for language course,155
+2023,University,National,Gangwon-do,Kangwon National University ,Exchange students,71
+2023,University,National,Gangwon-do,Kangwon National University ,Visiting students,0
+2023,University,National,Gangwon-do,Kangwon National University ,Other trainees,0
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Humanities and social science field,15
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Natural science field,2
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Engineering field,0
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Medicine field,0
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Students for language course,0
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Exchange students,0
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Visiting students,0
+2023,University,Private,Gyeongsangnam-do,Kaya University ,Other trainees,0
+2023,University,Private,Daegu,Keimyung University ,Humanities and social science field,786
+2023,University,Private,Daegu,Keimyung University ,Natural science field,24
+2023,University,Private,Daegu,Keimyung University ,Engineering field,121
+2023,University,Private,Daegu,Keimyung University ,Arts and physical education field,137
+2023,University,Private,Daegu,Keimyung University ,Medicine field,0
+2023,University,Private,Daegu,Keimyung University ,Students for language course,460
+2023,University,Private,Daegu,Keimyung University ,Exchange students,191
+2023,University,Private,Daegu,Keimyung University ,Visiting students,0
+2023,University,Private,Daegu,Keimyung University ,Other trainees,0
+2023,University,National,Chungcheongnam-do,Kongju National University ,Humanities and social science field,95
+2023,University,National,Chungcheongnam-do,Kongju National University ,Natural science field,29
+2023,University,National,Chungcheongnam-do,Kongju National University ,Engineering field,15
+2023,University,National,Chungcheongnam-do,Kongju National University ,Arts and physical education field,14
+2023,University,National,Chungcheongnam-do,Kongju National University ,Medicine field,0
+2023,University,National,Chungcheongnam-do,Kongju National University ,Students for language course,93
+2023,University,National,Chungcheongnam-do,Kongju National University ,Exchange students,10
+2023,University,National,Chungcheongnam-do,Kongju National University ,Visiting students,0
+2023,University,National,Chungcheongnam-do,Kongju National University ,Other trainees,0
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Humanities and social science field,41
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Natural science field,4
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Engineering field,0
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Arts and physical education field,44
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Medicine field,0
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Students for language course,3
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Exchange students,4
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Visiting students,0
+2023,University,Private,Chungcheongbuk-do,Konkuk University _Branch campus,Other trainees,0
+2023,University,Private,Seoul,Konkuk University ,Humanities and social science field,790
+2023,University,Private,Seoul,Konkuk University ,Natural science field,32
+2023,University,Private,Seoul,Konkuk University ,Engineering field,139
+2023,University,Private,Seoul,Konkuk University ,Arts and physical education field,192
+2023,University,Private,Seoul,Konkuk University ,Medicine field,0
+2023,University,Private,Seoul,Konkuk University ,Students for language course,823
+2023,University,Private,Seoul,Konkuk University ,Exchange students,194
+2023,University,Private,Seoul,Konkuk University ,Visiting students,15
+2023,University,Private,Seoul,Konkuk University ,Other trainees,0
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Humanities and social science field,8
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Natural science field,2
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Engineering field,0
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Arts and physical education field,0
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Daejeon,Konyang Cyber University ,Other trainees,0
+2023,University,Private,Daejeon,Konyang University _Campus 2,Humanities and social science field,1
+2023,University,Private,Daejeon,Konyang University _Campus 2,Natural science field,0
+2023,University,Private,Daejeon,Konyang University _Campus 2,Engineering field,1
+2023,University,Private,Daejeon,Konyang University _Campus 2,Arts and physical education field,0
+2023,University,Private,Daejeon,Konyang University _Campus 2,Medicine field,0
+2023,University,Private,Daejeon,Konyang University _Campus 2,Students for language course,0
+2023,University,Private,Daejeon,Konyang University _Campus 2,Exchange students,0
+2023,University,Private,Daejeon,Konyang University _Campus 2,Visiting students,0
+2023,University,Private,Daejeon,Konyang University _Campus 2,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Konyang University ,Humanities and social science field,25
+2023,University,Private,Chungcheongnam-do,Konyang University ,Natural science field,6
+2023,University,Private,Chungcheongnam-do,Konyang University ,Engineering field,0
+2023,University,Private,Chungcheongnam-do,Konyang University ,Arts and physical education field,0
+2023,University,Private,Chungcheongnam-do,Konyang University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Konyang University ,Students for language course,85
+2023,University,Private,Chungcheongnam-do,Konyang University ,Exchange students,9
+2023,University,Private,Chungcheongnam-do,Konyang University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Konyang University ,Other trainees,0
+2023,University,Private,Seoul,Kookmin University ,Humanities and social science field,1023
+2023,University,Private,Seoul,Kookmin University ,Natural science field,50
+2023,University,Private,Seoul,Kookmin University ,Engineering field,138
+2023,University,Private,Seoul,Kookmin University ,Arts and physical education field,126
+2023,University,Private,Seoul,Kookmin University ,Medicine field,0
+2023,University,Private,Seoul,Kookmin University ,Students for language course,497
+2023,University,Private,Seoul,Kookmin University ,Exchange students,99
+2023,University,Private,Seoul,Kookmin University ,Visiting students,18
+2023,University,Private,Seoul,Kookmin University ,Other trainees,0
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Humanities and social science field,3
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Natural science field,71
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Engineering field,311
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Arts and physical education field,0
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Medicine field,0
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Students for language course,0
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Exchange students,53
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Visiting students,0
+2023,University,Special Act for corporation,Daejeon,Korea Advanced Institute of Science and Technology(KAIST) ,Other trainees,6
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Humanities and social science field,11
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Natural science field,64
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Engineering field,16
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Korea Aerospace University ,Other trainees,0
+2023,Open University,National,Seoul,Korea National Open University ,Humanities and social science field,366
+2023,Open University,National,Seoul,Korea National Open University ,Natural science field,48
+2023,Open University,National,Seoul,Korea National Open University ,Engineering field,2
+2023,Open University,National,Seoul,Korea National Open University ,Arts and physical education field,3
+2023,Open University,National,Seoul,Korea National Open University ,Medicine field,0
+2023,Open University,National,Seoul,Korea National Open University ,Students for language course,0
+2023,Open University,National,Seoul,Korea National Open University ,Exchange students,0
+2023,Open University,National,Seoul,Korea National Open University ,Visiting students,0
+2023,Open University,National,Seoul,Korea National Open University ,Other trainees,0
+2023,University,National,Seoul,Korea National Sport University ,Humanities and social science field,0
+2023,University,National,Seoul,Korea National Sport University ,Natural science field,0
+2023,University,National,Seoul,Korea National Sport University ,Engineering field,0
+2023,University,National,Seoul,Korea National Sport University ,Arts and physical education field,6
+2023,University,National,Seoul,Korea National Sport University ,Medicine field,0
+2023,University,National,Seoul,Korea National Sport University ,Students for language course,0
+2023,University,National,Seoul,Korea National Sport University ,Exchange students,0
+2023,University,National,Seoul,Korea National Sport University ,Visiting students,0
+2023,University,National,Seoul,Korea National Sport University ,Other trainees,0
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Humanities and social science field,0
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Natural science field,0
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Engineering field,0
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Arts and physical education field,51
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Medicine field,0
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Students for language course,0
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Exchange students,45
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Visiting students,0
+2023,Various schools(university),Special Act for national universities,Seoul,Korea National University Of Arts ,Other trainees,0
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Humanities and social science field,0
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Natural science field,0
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Engineering field,0
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Arts and physical education field,1
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Medicine field,0
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Students for language course,0
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Exchange students,0
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Visiting students,0
+2023,University,Special Act for national universities,Chungcheongnam-do,Korea National University Of Cultural Heritage ,Other trainees,0
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Humanities and social science field,34
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Natural science field,0
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Engineering field,5
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Arts and physical education field,1
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Medicine field,0
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Students for language course,17
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Exchange students,20
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Visiting students,0
+2023,University,National,Chungcheongbuk-do,Korea National University Of Transportation ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Humanities and social science field,64
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Natural science field,0
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Engineering field,0
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Arts and physical education field,6
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Students for language course,209
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Exchange students,0
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Korea Nazarene University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Humanities and social science field,42
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Natural science field,0
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Engineering field,0
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Arts and physical education field,0
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Korea Soongsil Cyber University ,Other trainees,0
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Humanities and social science field,279
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Natural science field,45
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Engineering field,45
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Arts and physical education field,15
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Medicine field,0
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Students for language course,68
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Exchange students,17
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Visiting students,5
+2023,University,Private,Sejong,Korea University Sejong Campus _Branch campus,Other trainees,0
+2023,University,Private,Seoul,Korea University ,Humanities and social science field,1300
+2023,University,Private,Seoul,Korea University ,Natural science field,74
+2023,University,Private,Seoul,Korea University ,Engineering field,309
+2023,University,Private,Seoul,Korea University ,Arts and physical education field,25
+2023,University,Private,Seoul,Korea University ,Medicine field,0
+2023,University,Private,Seoul,Korea University ,Students for language course,992
+2023,University,Private,Seoul,Korea University ,Exchange students,467
+2023,University,Private,Seoul,Korea University ,Visiting students,191
+2023,University,Private,Seoul,Korea University ,Other trainees,0
+2023,University,Private,Seoul,Korean Bible University ,Humanities and social science field,9
+2023,University,Private,Seoul,Korean Bible University ,Natural science field,0
+2023,University,Private,Seoul,Korean Bible University ,Engineering field,3
+2023,University,Private,Seoul,Korean Bible University ,Arts and physical education field,0
+2023,University,Private,Seoul,Korean Bible University ,Medicine field,0
+2023,University,Private,Seoul,Korean Bible University ,Students for language course,124
+2023,University,Private,Seoul,Korean Bible University ,Exchange students,0
+2023,University,Private,Seoul,Korean Bible University ,Visiting students,0
+2023,University,Private,Seoul,Korean Bible University ,Other trainees,0
+2023,University,Private,Busan,Kosin University ,Humanities and social science field,35
+2023,University,Private,Busan,Kosin University ,Natural science field,2
+2023,University,Private,Busan,Kosin University ,Engineering field,0
+2023,University,Private,Busan,Kosin University ,Arts and physical education field,7
+2023,University,Private,Busan,Kosin University ,Medicine field,0
+2023,University,Private,Busan,Kosin University ,Students for language course,8
+2023,University,Private,Busan,Kosin University ,Exchange students,0
+2023,University,Private,Busan,Kosin University ,Visiting students,0
+2023,University,Private,Busan,Kosin University ,Other trainees,0
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Humanities and social science field,9
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Natural science field,0
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Engineering field,25
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Arts and physical education field,0
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Medicine field,0
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Students for language course,33
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Exchange students,26
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Visiting students,0
+2023,University,National,Gyeongsangbuk-do,Kumoh National Institute Of Technology ,Other trainees,0
+2023,University,National,Jeollabuk-do,Kunsan National University ,Humanities and social science field,162
+2023,University,National,Jeollabuk-do,Kunsan National University ,Natural science field,3
+2023,University,National,Jeollabuk-do,Kunsan National University ,Engineering field,48
+2023,University,National,Jeollabuk-do,Kunsan National University ,Arts and physical education field,74
+2023,University,National,Jeollabuk-do,Kunsan National University ,Medicine field,0
+2023,University,National,Jeollabuk-do,Kunsan National University ,Students for language course,17
+2023,University,National,Jeollabuk-do,Kunsan National University ,Exchange students,18
+2023,University,National,Jeollabuk-do,Kunsan National University ,Visiting students,0
+2023,University,National,Jeollabuk-do,Kunsan National University ,Other trainees,0
+2023,University,Private,Gwangju,Kwangju Women'S University ,Humanities and social science field,240
+2023,University,Private,Gwangju,Kwangju Women'S University ,Natural science field,32
+2023,University,Private,Gwangju,Kwangju Women'S University ,Engineering field,0
+2023,University,Private,Gwangju,Kwangju Women'S University ,Arts and physical education field,0
+2023,University,Private,Gwangju,Kwangju Women'S University ,Medicine field,0
+2023,University,Private,Gwangju,Kwangju Women'S University ,Students for language course,611
+2023,University,Private,Gwangju,Kwangju Women'S University ,Exchange students,0
+2023,University,Private,Gwangju,Kwangju Women'S University ,Visiting students,0
+2023,University,Private,Gwangju,Kwangju Women'S University ,Other trainees,0
+2023,University,Private,Gwangju,Kwangshin University ,Humanities and social science field,16
+2023,University,Private,Gwangju,Kwangshin University ,Natural science field,0
+2023,University,Private,Gwangju,Kwangshin University ,Engineering field,0
+2023,University,Private,Gwangju,Kwangshin University ,Arts and physical education field,1
+2023,University,Private,Gwangju,Kwangshin University ,Medicine field,0
+2023,University,Private,Gwangju,Kwangshin University ,Students for language course,15
+2023,University,Private,Gwangju,Kwangshin University ,Exchange students,0
+2023,University,Private,Gwangju,Kwangshin University ,Visiting students,0
+2023,University,Private,Gwangju,Kwangshin University ,Other trainees,0
+2023,University,Private,Seoul,Kwangwoon University ,Humanities and social science field,737
+2023,University,Private,Seoul,Kwangwoon University ,Natural science field,3
+2023,University,Private,Seoul,Kwangwoon University ,Engineering field,106
+2023,University,Private,Seoul,Kwangwoon University ,Arts and physical education field,1
+2023,University,Private,Seoul,Kwangwoon University ,Medicine field,0
+2023,University,Private,Seoul,Kwangwoon University ,Students for language course,104
+2023,University,Private,Seoul,Kwangwoon University ,Exchange students,38
+2023,University,Private,Seoul,Kwangwoon University ,Visiting students,0
+2023,University,Private,Seoul,Kwangwoon University ,Other trainees,0
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Humanities and social science field,531
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Natural science field,0
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Engineering field,0
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Arts and physical education field,32
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Medicine field,0
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Students for language course,0
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Exchange students,1
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Visiting students,0
+2023,University,Private,Seoul,Kyonggi University _Campus 2,Other trainees,0
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Humanities and social science field,474
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Natural science field,7
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Engineering field,22
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Arts and physical education field,11
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Students for language course,402
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Exchange students,62
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Visiting students,2
+2023,University,Private,Gyeonggi-do,Kyonggi University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Humanities and social science field,189
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Natural science field,7
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Engineering field,6
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Arts and physical education field,4
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Kyung Hee Cyber University ,Other trainees,0
+2023,University,Private,Seoul,Kyung Hee University ,Humanities and social science field,2252
+2023,University,Private,Seoul,Kyung Hee University ,Natural science field,64
+2023,University,Private,Seoul,Kyung Hee University ,Engineering field,105
+2023,University,Private,Seoul,Kyung Hee University ,Arts and physical education field,549
+2023,University,Private,Seoul,Kyung Hee University ,Medicine field,1
+2023,University,Private,Seoul,Kyung Hee University ,Students for language course,1048
+2023,University,Private,Seoul,Kyung Hee University ,Exchange students,273
+2023,University,Private,Seoul,Kyung Hee University ,Visiting students,0
+2023,University,Private,Seoul,Kyung Hee University ,Other trainees,10
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Humanities and social science field,0
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Natural science field,0
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Engineering field,75
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Arts and physical education field,1
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Medicine field,0
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Students for language course,101
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Exchange students,0
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Visiting students,0
+2023,University,Private,Gyeonggi-do,Kyungdong University _Campus 4,Other trainees,0
+2023,University,Private,Gangwon-do,Kyungdong University ,Humanities and social science field,553
+2023,University,Private,Gangwon-do,Kyungdong University ,Natural science field,0
+2023,University,Private,Gangwon-do,Kyungdong University ,Engineering field,70
+2023,University,Private,Gangwon-do,Kyungdong University ,Arts and physical education field,0
+2023,University,Private,Gangwon-do,Kyungdong University ,Medicine field,0
+2023,University,Private,Gangwon-do,Kyungdong University ,Students for language course,54
+2023,University,Private,Gangwon-do,Kyungdong University ,Exchange students,1
+2023,University,Private,Gangwon-do,Kyungdong University ,Visiting students,0
+2023,University,Private,Gangwon-do,Kyungdong University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Humanities and social science field,203
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Natural science field,0
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Engineering field,49
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Arts and physical education field,22
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Students for language course,100
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Exchange students,0
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Kyungil University ,Other trainees,0
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Humanities and social science field,178
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Natural science field,4
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Engineering field,47
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Arts and physical education field,11
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Medicine field,0
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Students for language course,50
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Exchange students,7
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Visiting students,0
+2023,University,Private,Gyeongsangnam-do,Kyungnam University ,Other trainees,0
+2023,University,National,Daegu,Kyungpook National University ,Humanities and social science field,335
+2023,University,National,Daegu,Kyungpook National University ,Natural science field,116
+2023,University,National,Daegu,Kyungpook National University ,Engineering field,91
+2023,University,National,Daegu,Kyungpook National University ,Arts and physical education field,7
+2023,University,National,Daegu,Kyungpook National University ,Medicine field,0
+2023,University,National,Daegu,Kyungpook National University ,Students for language course,252
+2023,University,National,Daegu,Kyungpook National University ,Exchange students,570
+2023,University,National,Daegu,Kyungpook National University ,Visiting students,0
+2023,University,National,Daegu,Kyungpook National University ,Other trainees,0
+2023,University,Private,Busan,Kyungsung University ,Humanities and social science field,866
+2023,University,Private,Busan,Kyungsung University ,Natural science field,6
+2023,University,Private,Busan,Kyungsung University ,Engineering field,84
+2023,University,Private,Busan,Kyungsung University ,Arts and physical education field,21
+2023,University,Private,Busan,Kyungsung University ,Medicine field,0
+2023,University,Private,Busan,Kyungsung University ,Students for language course,72
+2023,University,Private,Busan,Kyungsung University ,Exchange students,35
+2023,University,Private,Busan,Kyungsung University ,Visiting students,0
+2023,University,Private,Busan,Kyungsung University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Humanities and social science field,4
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Natural science field,1
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Engineering field,4
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Arts and physical education field,3
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Students for language course,180
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Exchange students,0
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Kyungwoon University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Luther University ,Humanities and social science field,1
+2023,University,Private,Gyeonggi-do,Luther University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Luther University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,Luther University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Luther University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Luther University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Luther University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Luther University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Luther University ,Other trainees,0
+2023,University,Private,Seoul,Methodist Theological University ,Humanities and social science field,1
+2023,University,Private,Seoul,Methodist Theological University ,Natural science field,0
+2023,University,Private,Seoul,Methodist Theological University ,Engineering field,0
+2023,University,Private,Seoul,Methodist Theological University ,Arts and physical education field,0
+2023,University,Private,Seoul,Methodist Theological University ,Medicine field,0
+2023,University,Private,Seoul,Methodist Theological University ,Students for language course,0
+2023,University,Private,Seoul,Methodist Theological University ,Exchange students,0
+2023,University,Private,Seoul,Methodist Theological University ,Visiting students,0
+2023,University,Private,Seoul,Methodist Theological University ,Other trainees,0
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Humanities and social science field,1
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Natural science field,0
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Engineering field,0
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Arts and physical education field,0
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Medicine field,0
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Students for language course,0
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Exchange students,0
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Visiting students,0
+2023,University,Private,Jeollanam-do,Mokpo Catholic University ,Other trainees,0
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Humanities and social science field,0
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Natural science field,0
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Engineering field,7
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Arts and physical education field,0
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Medicine field,0
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Students for language course,0
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Exchange students,0
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Visiting students,0
+2023,University,National,Jeollanam-do,Mokpo National Maritime University ,Other trainees,0
+2023,University,National,Jeollanam-do,Mokpo National University ,Humanities and social science field,39
+2023,University,National,Jeollanam-do,Mokpo National University ,Natural science field,5
+2023,University,National,Jeollanam-do,Mokpo National University ,Engineering field,7
+2023,University,National,Jeollanam-do,Mokpo National University ,Arts and physical education field,1
+2023,University,National,Jeollanam-do,Mokpo National University ,Medicine field,0
+2023,University,National,Jeollanam-do,Mokpo National University ,Students for language course,77
+2023,University,National,Jeollanam-do,Mokpo National University ,Exchange students,0
+2023,University,National,Jeollanam-do,Mokpo National University ,Visiting students,0
+2023,University,National,Jeollanam-do,Mokpo National University ,Other trainees,0
+2023,University,Private,Daejeon,Mokwon University ,Humanities and social science field,279
+2023,University,Private,Daejeon,Mokwon University ,Natural science field,41
+2023,University,Private,Daejeon,Mokwon University ,Engineering field,21
+2023,University,Private,Daejeon,Mokwon University ,Arts and physical education field,36
+2023,University,Private,Daejeon,Mokwon University ,Medicine field,0
+2023,University,Private,Daejeon,Mokwon University ,Students for language course,351
+2023,University,Private,Daejeon,Mokwon University ,Exchange students,22
+2023,University,Private,Daejeon,Mokwon University ,Visiting students,0
+2023,University,Private,Daejeon,Mokwon University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Humanities and social science field,0
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Natural science field,7
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Engineering field,85
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Arts and physical education field,126
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Students for language course,116
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Exchange students,41
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Myongji University Natural Science Campus ,Other trainees,56
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Humanities and social science field,1232
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Natural science field,0
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Engineering field,6
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Arts and physical education field,0
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Medicine field,0
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Students for language course,411
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Exchange students,249
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Visiting students,0
+2023,University,Private,Seoul,Myongji University Social Science Campus _Campus 2,Other trainees,36
+2023,University,Private,Gwangju,Nambu University ,Humanities and social science field,220
+2023,University,Private,Gwangju,Nambu University ,Natural science field,38
+2023,University,Private,Gwangju,Nambu University ,Engineering field,67
+2023,University,Private,Gwangju,Nambu University ,Arts and physical education field,9
+2023,University,Private,Gwangju,Nambu University ,Medicine field,0
+2023,University,Private,Gwangju,Nambu University ,Students for language course,0
+2023,University,Private,Gwangju,Nambu University ,Exchange students,0
+2023,University,Private,Gwangju,Nambu University ,Visiting students,0
+2023,University,Private,Gwangju,Nambu University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Humanities and social science field,447
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Natural science field,37
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Engineering field,24
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Arts and physical education field,14
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Students for language course,645
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Exchange students,50
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Namseoul University ,Other trainees,0
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Humanities and social science field,10
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Natural science field,2
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Engineering field,7
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Arts and physical education field,0
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Medicine field,0
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Students for language course,147
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Exchange students,21
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Visiting students,0
+2023,University,National,Busan,National Korea Maritime & Ocean University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Humanities and social science field,7
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Natural science field,5
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Engineering field,0
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Arts and physical education field,0
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Open Cyber University Of Korea (OCU) ,Other trainees,0
+2023,University,Private,Daejeon,Pai Chai University ,Humanities and social science field,132
+2023,University,Private,Daejeon,Pai Chai University ,Natural science field,8
+2023,University,Private,Daejeon,Pai Chai University ,Engineering field,9
+2023,University,Private,Daejeon,Pai Chai University ,Arts and physical education field,8
+2023,University,Private,Daejeon,Pai Chai University ,Medicine field,0
+2023,University,Private,Daejeon,Pai Chai University ,Students for language course,297
+2023,University,Private,Daejeon,Pai Chai University ,Exchange students,64
+2023,University,Private,Daejeon,Pai Chai University ,Visiting students,0
+2023,University,Private,Daejeon,Pai Chai University ,Other trainees,0
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Humanities and social science field,3
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Natural science field,0
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Engineering field,0
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Arts and physical education field,0
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Medicine field,0
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Students for language course,0
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Exchange students,0
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Visiting students,0
+2023,University,Private,Seoul,Presbyterian University & Theological Seminary ,Other trainees,0
+2023,University,National,Busan,Pukyong National University ,Humanities and social science field,576
+2023,University,National,Busan,Pukyong National University ,Natural science field,39
+2023,University,National,Busan,Pukyong National University ,Engineering field,57
+2023,University,National,Busan,Pukyong National University ,Arts and physical education field,35
+2023,University,National,Busan,Pukyong National University ,Medicine field,0
+2023,University,National,Busan,Pukyong National University ,Students for language course,281
+2023,University,National,Busan,Pukyong National University ,Exchange students,74
+2023,University,National,Busan,Pukyong National University ,Visiting students,0
+2023,University,National,Busan,Pukyong National University ,Other trainees,0
+2023,University,National,Busan,Pusan National University ,Humanities and social science field,272
+2023,University,National,Busan,Pusan National University ,Natural science field,68
+2023,University,National,Busan,Pusan National University ,Engineering field,150
+2023,University,National,Busan,Pusan National University ,Arts and physical education field,44
+2023,University,National,Busan,Pusan National University ,Medicine field,0
+2023,University,National,Busan,Pusan National University ,Students for language course,416
+2023,University,National,Busan,Pusan National University ,Exchange students,156
+2023,University,National,Busan,Pusan National University ,Visiting students,8
+2023,University,National,Busan,Pusan National University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Humanities and social science field,132
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Natural science field,6
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Engineering field,4
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Arts and physical education field,1
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Pyeongtaek University ,Other trainees,0
+2023,University,Private,Seoul,Sahmyook University ,Humanities and social science field,151
+2023,University,Private,Seoul,Sahmyook University ,Natural science field,21
+2023,University,Private,Seoul,Sahmyook University ,Engineering field,5
+2023,University,Private,Seoul,Sahmyook University ,Arts and physical education field,7
+2023,University,Private,Seoul,Sahmyook University ,Medicine field,0
+2023,University,Private,Seoul,Sahmyook University ,Students for language course,83
+2023,University,Private,Seoul,Sahmyook University ,Exchange students,4
+2023,University,Private,Seoul,Sahmyook University ,Visiting students,0
+2023,University,Private,Seoul,Sahmyook University ,Other trainees,0
+2023,University,Private,Gangwon-do,Sangji University ,Humanities and social science field,32
+2023,University,Private,Gangwon-do,Sangji University ,Natural science field,3
+2023,University,Private,Gangwon-do,Sangji University ,Engineering field,4
+2023,University,Private,Gangwon-do,Sangji University ,Arts and physical education field,3
+2023,University,Private,Gangwon-do,Sangji University ,Medicine field,0
+2023,University,Private,Gangwon-do,Sangji University ,Students for language course,99
+2023,University,Private,Gangwon-do,Sangji University ,Exchange students,5
+2023,University,Private,Gangwon-do,Sangji University ,Visiting students,0
+2023,University,Private,Gangwon-do,Sangji University ,Other trainees,0
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Humanities and social science field,324
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Natural science field,45
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Engineering field,3
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Arts and physical education field,15
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Medicine field,0
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Students for language course,0
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Exchange students,31
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Visiting students,0
+2023,University,Private,Seoul,Sangmyung University (Seoul) ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Humanities and social science field,25
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Natural science field,2
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Engineering field,9
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Arts and physical education field,46
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Students for language course,0
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Exchange students,21
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Sangmyung University _Campus 2,Other trainees,0
+2023,University,Private,Jeollanam-do,Sehan University ,Humanities and social science field,22
+2023,University,Private,Jeollanam-do,Sehan University ,Natural science field,0
+2023,University,Private,Jeollanam-do,Sehan University ,Engineering field,0
+2023,University,Private,Jeollanam-do,Sehan University ,Arts and physical education field,13
+2023,University,Private,Jeollanam-do,Sehan University ,Medicine field,0
+2023,University,Private,Jeollanam-do,Sehan University ,Students for language course,0
+2023,University,Private,Jeollanam-do,Sehan University ,Exchange students,0
+2023,University,Private,Jeollanam-do,Sehan University ,Visiting students,0
+2023,University,Private,Jeollanam-do,Sehan University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Humanities and social science field,57
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Natural science field,2
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Engineering field,4
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Arts and physical education field,8
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Sejong Cyber University ,Other trainees,0
+2023,University,Private,Seoul,Sejong University ,Humanities and social science field,624
+2023,University,Private,Seoul,Sejong University ,Natural science field,0
+2023,University,Private,Seoul,Sejong University ,Engineering field,276
+2023,University,Private,Seoul,Sejong University ,Arts and physical education field,159
+2023,University,Private,Seoul,Sejong University ,Medicine field,0
+2023,University,Private,Seoul,Sejong University ,Students for language course,513
+2023,University,Private,Seoul,Sejong University ,Exchange students,132
+2023,University,Private,Seoul,Sejong University ,Visiting students,0
+2023,University,Private,Seoul,Sejong University ,Other trainees,0
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Humanities and social science field,71
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Natural science field,22
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Engineering field,7
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Arts and physical education field,29
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Medicine field,0
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Students for language course,53
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Exchange students,16
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Visiting students,0
+2023,University,Private,Chungcheongbuk-do,Semyung University ,Other trainees,0
+2023,University,Private,Seoul,Seokyeong University ,Humanities and social science field,55
+2023,University,Private,Seoul,Seokyeong University ,Natural science field,0
+2023,University,Private,Seoul,Seokyeong University ,Engineering field,0
+2023,University,Private,Seoul,Seokyeong University ,Arts and physical education field,514
+2023,University,Private,Seoul,Seokyeong University ,Medicine field,0
+2023,University,Private,Seoul,Seokyeong University ,Students for language course,184
+2023,University,Private,Seoul,Seokyeong University ,Exchange students,0
+2023,University,Private,Seoul,Seokyeong University ,Visiting students,0
+2023,University,Private,Seoul,Seokyeong University ,Other trainees,0
+2023,University,Private,Seoul,Seoul Christian University ,Humanities and social science field,3
+2023,University,Private,Seoul,Seoul Christian University ,Natural science field,0
+2023,University,Private,Seoul,Seoul Christian University ,Engineering field,0
+2023,University,Private,Seoul,Seoul Christian University ,Arts and physical education field,0
+2023,University,Private,Seoul,Seoul Christian University ,Medicine field,0
+2023,University,Private,Seoul,Seoul Christian University ,Students for language course,0
+2023,University,Private,Seoul,Seoul Christian University ,Exchange students,0
+2023,University,Private,Seoul,Seoul Christian University ,Visiting students,0
+2023,University,Private,Seoul,Seoul Christian University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Humanities and social science field,28
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Natural science field,0
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Engineering field,8
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Arts and physical education field,2
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Seoul Cyber University ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Humanities and social science field,32
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Natural science field,0
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Engineering field,3
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Arts and physical education field,25
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,Seoul Digital University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Humanities and social science field,1
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Seoul Jangsin University ,Other trainees,0
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Humanities and social science field,0
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Natural science field,0
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Engineering field,0
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Arts and physical education field,0
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Medicine field,0
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Students for language course,0
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Exchange students,5
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Visiting students,0
+2023,College of Education,National,Seoul,Seoul National University Of Education ,Other trainees,0
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Humanities and social science field,207
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Natural science field,14
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Engineering field,183
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Arts and physical education field,28
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Medicine field,0
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Students for language course,133
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Exchange students,104
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Visiting students,0
+2023,University,National,Seoul,Seoul National University Of Science And Technology ,Other trainees,0
+2023,University,National university corporation,Seoul,Seoul National University ,Humanities and social science field,80
+2023,University,National university corporation,Seoul,Seoul National University ,Natural science field,21
+2023,University,National university corporation,Seoul,Seoul National University ,Engineering field,76
+2023,University,National university corporation,Seoul,Seoul National University ,Arts and physical education field,13
+2023,University,National university corporation,Seoul,Seoul National University ,Medicine field,5
+2023,University,National university corporation,Seoul,Seoul National University ,Students for language course,925
+2023,University,National university corporation,Seoul,Seoul National University ,Exchange students,317
+2023,University,National university corporation,Seoul,Seoul National University ,Visiting students,15
+2023,University,National university corporation,Seoul,Seoul National University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Humanities and social science field,13
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Engineering field,1
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Students for language course,195
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Seoul Theological University ,Other trainees,0
+2023,University,Private,Seoul,Seoul Women's University ,Humanities and social science field,147
+2023,University,Private,Seoul,Seoul Women's University ,Natural science field,13
+2023,University,Private,Seoul,Seoul Women's University ,Engineering field,0
+2023,University,Private,Seoul,Seoul Women's University ,Arts and physical education field,1
+2023,University,Private,Seoul,Seoul Women's University ,Medicine field,0
+2023,University,Private,Seoul,Seoul Women's University ,Students for language course,317
+2023,University,Private,Seoul,Seoul Women's University ,Exchange students,48
+2023,University,Private,Seoul,Seoul Women's University ,Visiting students,0
+2023,University,Private,Seoul,Seoul Women's University ,Other trainees,0
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Humanities and social science field,57
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Natural science field,1
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Engineering field,0
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Arts and physical education field,3
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Medicine field,0
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Students for language course,82
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Exchange students,2
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Visiting students,0
+2023,University,Private,Chungcheongbuk-do,Seowon University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Humanities and social science field,264
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Natural science field,54
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Engineering field,14
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Arts and physical education field,17
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Medicine field,0
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Students for language course,200
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Exchange students,12
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Visiting students,0
+2023,University,Private,Gyeonggi-do,Shinhan University _Campus 2,Other trainees,0
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Humanities and social science field,12
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Engineering field,6
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Shinhan Unvirsity ,Other trainees,0
+2023,University,Private,Busan,Silla University ,Humanities and social science field,163
+2023,University,Private,Busan,Silla University ,Natural science field,14
+2023,University,Private,Busan,Silla University ,Engineering field,36
+2023,University,Private,Busan,Silla University ,Arts and physical education field,9
+2023,University,Private,Busan,Silla University ,Medicine field,0
+2023,University,Private,Busan,Silla University ,Students for language course,196
+2023,University,Private,Busan,Silla University ,Exchange students,18
+2023,University,Private,Busan,Silla University ,Visiting students,0
+2023,University,Private,Busan,Silla University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Humanities and social science field,55
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Natural science field,2
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Engineering field,0
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Arts and physical education field,11
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Students for language course,18
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Exchange students,0
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,SinGyeongju University ,Other trainees,0
+2023,University,Private,Seoul,Sogang University ,Humanities and social science field,735
+2023,University,Private,Seoul,Sogang University ,Natural science field,17
+2023,University,Private,Seoul,Sogang University ,Engineering field,55
+2023,University,Private,Seoul,Sogang University ,Arts and physical education field,0
+2023,University,Private,Seoul,Sogang University ,Medicine field,0
+2023,University,Private,Seoul,Sogang University ,Students for language course,1048
+2023,University,Private,Seoul,Sogang University ,Exchange students,190
+2023,University,Private,Seoul,Sogang University ,Visiting students,21
+2023,University,Private,Seoul,Sogang University ,Other trainees,0
+2023,University,Private,Gwangju,Songwon University ,Humanities and social science field,256
+2023,University,Private,Gwangju,Songwon University ,Natural science field,0
+2023,University,Private,Gwangju,Songwon University ,Engineering field,20
+2023,University,Private,Gwangju,Songwon University ,Arts and physical education field,11
+2023,University,Private,Gwangju,Songwon University ,Medicine field,0
+2023,University,Private,Gwangju,Songwon University ,Students for language course,164
+2023,University,Private,Gwangju,Songwon University ,Exchange students,0
+2023,University,Private,Gwangju,Songwon University ,Visiting students,0
+2023,University,Private,Gwangju,Songwon University ,Other trainees,0
+2023,University,Private,Seoul,Sookmyung Women'S University ,Humanities and social science field,82
+2023,University,Private,Seoul,Sookmyung Women'S University ,Natural science field,4
+2023,University,Private,Seoul,Sookmyung Women'S University ,Engineering field,1
+2023,University,Private,Seoul,Sookmyung Women'S University ,Arts and physical education field,12
+2023,University,Private,Seoul,Sookmyung Women'S University ,Medicine field,0
+2023,University,Private,Seoul,Sookmyung Women'S University ,Students for language course,53
+2023,University,Private,Seoul,Sookmyung Women'S University ,Exchange students,104
+2023,University,Private,Seoul,Sookmyung Women'S University ,Visiting students,6
+2023,University,Private,Seoul,Sookmyung Women'S University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Humanities and social science field,452
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Natural science field,11
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Engineering field,81
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Arts and physical education field,5
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Students for language course,145
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Exchange students,140
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Soonchunhyang University ,Other trainees,0
+2023,University,Private,Seoul,Soongsil University ,Humanities and social science field,1302
+2023,University,Private,Seoul,Soongsil University ,Natural science field,4
+2023,University,Private,Seoul,Soongsil University ,Engineering field,120
+2023,University,Private,Seoul,Soongsil University ,Arts and physical education field,15
+2023,University,Private,Seoul,Soongsil University ,Medicine field,0
+2023,University,Private,Seoul,Soongsil University ,Students for language course,348
+2023,University,Private,Seoul,Soongsil University ,Exchange students,130
+2023,University,Private,Seoul,Soongsil University ,Visiting students,5
+2023,University,Private,Seoul,Soongsil University ,Other trainees,0
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Humanities and social science field,928
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Natural science field,43
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Engineering field,166
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Arts and physical education field,63
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Medicine field,0
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Students for language course,284
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Exchange students,11
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Visiting students,0
+2023,University,Private,Chungcheongnam-do,Sun Moon University ,Other trainees,0
+2023,University,National,Jeollanam-do,Sunchon National University ,Humanities and social science field,108
+2023,University,National,Jeollanam-do,Sunchon National University ,Natural science field,14
+2023,University,National,Jeollanam-do,Sunchon National University ,Engineering field,11
+2023,University,National,Jeollanam-do,Sunchon National University ,Arts and physical education field,16
+2023,University,National,Jeollanam-do,Sunchon National University ,Medicine field,0
+2023,University,National,Jeollanam-do,Sunchon National University ,Students for language course,137
+2023,University,National,Jeollanam-do,Sunchon National University ,Exchange students,2
+2023,University,National,Jeollanam-do,Sunchon National University ,Visiting students,0
+2023,University,National,Jeollanam-do,Sunchon National University ,Other trainees,0
+2023,University,Private,Seoul,Sungkonghoe University ,Humanities and social science field,2
+2023,University,Private,Seoul,Sungkonghoe University ,Natural science field,0
+2023,University,Private,Seoul,Sungkonghoe University ,Engineering field,0
+2023,University,Private,Seoul,Sungkonghoe University ,Arts and physical education field,0
+2023,University,Private,Seoul,Sungkonghoe University ,Medicine field,0
+2023,University,Private,Seoul,Sungkonghoe University ,Students for language course,0
+2023,University,Private,Seoul,Sungkonghoe University ,Exchange students,22
+2023,University,Private,Seoul,Sungkonghoe University ,Visiting students,0
+2023,University,Private,Seoul,Sungkonghoe University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Humanities and social science field,35
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Arts and physical education field,12
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Students for language course,183
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Exchange students,7
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Sungkyul University ,Other trainees,0
+2023,University,Private,Seoul,Sungkyunkwan University ,Humanities and social science field,2041
+2023,University,Private,Seoul,Sungkyunkwan University ,Natural science field,37
+2023,University,Private,Seoul,Sungkyunkwan University ,Engineering field,277
+2023,University,Private,Seoul,Sungkyunkwan University ,Arts and physical education field,231
+2023,University,Private,Seoul,Sungkyunkwan University ,Medicine field,0
+2023,University,Private,Seoul,Sungkyunkwan University ,Students for language course,360
+2023,University,Private,Seoul,Sungkyunkwan University ,Exchange students,933
+2023,University,Private,Seoul,Sungkyunkwan University ,Visiting students,48
+2023,University,Private,Seoul,Sungkyunkwan University ,Other trainees,0
+2023,University,Private,Seoul,Sungshin Women'S University ,Humanities and social science field,14
+2023,University,Private,Seoul,Sungshin Women'S University ,Natural science field,5
+2023,University,Private,Seoul,Sungshin Women'S University ,Engineering field,3
+2023,University,Private,Seoul,Sungshin Women'S University ,Arts and physical education field,37
+2023,University,Private,Seoul,Sungshin Women'S University ,Medicine field,0
+2023,University,Private,Seoul,Sungshin Women'S University ,Students for language course,300
+2023,University,Private,Seoul,Sungshin Women'S University ,Exchange students,132
+2023,University,Private,Seoul,Sungshin Women'S University ,Visiting students,0
+2023,University,Private,Seoul,Sungshin Women'S University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Humanities and social science field,6
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Students for language course,0
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Suwon Catholic University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Humanities and social science field,79
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Natural science field,0
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Engineering field,88
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Arts and physical education field,0
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Students for language course,212
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Exchange students,3
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Tech University of Korea ,Other trainees,0
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Humanities and social science field,6
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Natural science field,0
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Engineering field,0
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Arts and physical education field,0
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Medicine field,0
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Students for language course,0
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Exchange students,0
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Visiting students,0
+2023,University,Private,Seoul,The Catholic University Of Korea _Campus 3,Other trainees,0
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Humanities and social science field,354
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Natural science field,73
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Engineering field,39
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Arts and physical education field,18
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Medicine field,0
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Students for language course,250
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Exchange students,81
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Visiting students,0
+2023,University,Private,Gyeonggi-do,The Catholic University Of Korea ,Other trainees,0
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Humanities and social science field,130
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Natural science field,0
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Engineering field,31
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Arts and physical education field,0
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Medicine field,0
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Students for language course,0
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Exchange students,0
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Visiting students,0
+2023,Cyber University (University),Private,Seoul,The Cyber University Of Korea ,Other trainees,0
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Humanities and social science field,93
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Natural science field,0
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Engineering field,0
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Arts and physical education field,2
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Medicine field,0
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Students for language course,0
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Exchange students,1
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Visiting students,0
+2023,University,Private,Gyeonggi-do,The University Of Suwon ,Other trainees,0
+2023,University,Private,Busan,Tongmyong University ,Humanities and social science field,431
+2023,University,Private,Busan,Tongmyong University ,Natural science field,1
+2023,University,Private,Busan,Tongmyong University ,Engineering field,61
+2023,University,Private,Busan,Tongmyong University ,Arts and physical education field,30
+2023,University,Private,Busan,Tongmyong University ,Medicine field,0
+2023,University,Private,Busan,Tongmyong University ,Students for language course,14
+2023,University,Private,Busan,Tongmyong University ,Exchange students,2
+2023,University,Private,Busan,Tongmyong University ,Visiting students,0
+2023,University,Private,Busan,Tongmyong University ,Other trainees,0
+2023,University,Private,Chungcheongbuk-do,U1 University ,Humanities and social science field,87
+2023,University,Private,Chungcheongbuk-do,U1 University ,Natural science field,6
+2023,University,Private,Chungcheongbuk-do,U1 University ,Engineering field,6
+2023,University,Private,Chungcheongbuk-do,U1 University ,Arts and physical education field,3
+2023,University,Private,Chungcheongbuk-do,U1 University ,Medicine field,0
+2023,University,Private,Chungcheongbuk-do,U1 University ,Students for language course,180
+2023,University,Private,Chungcheongbuk-do,U1 University ,Exchange students,0
+2023,University,Private,Chungcheongbuk-do,U1 University ,Visiting students,0
+2023,University,Private,Chungcheongbuk-do,U1 University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Humanities and social science field,67
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Natural science field,2
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Engineering field,4
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Arts and physical education field,3
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Students for language course,10
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Exchange students,1
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Uiduk University ,Other trainees,0
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Humanities and social science field,17
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Natural science field,8
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Engineering field,91
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Arts and physical education field,0
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Medicine field,0
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Students for language course,0
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Exchange students,0
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Visiting students,0
+2023,University,Special Act for corporation,Ulsan,Ulsan National Institute of Science and Technology ,Other trainees,1
+2023,University,Public,Seoul,University Of Seoul ,Humanities and social science field,190
+2023,University,Public,Seoul,University Of Seoul ,Natural science field,5
+2023,University,Public,Seoul,University Of Seoul ,Engineering field,27
+2023,University,Public,Seoul,University Of Seoul ,Arts and physical education field,6
+2023,University,Public,Seoul,University Of Seoul ,Medicine field,0
+2023,University,Public,Seoul,University Of Seoul ,Students for language course,247
+2023,University,Public,Seoul,University Of Seoul ,Exchange students,262
+2023,University,Public,Seoul,University Of Seoul ,Visiting students,0
+2023,University,Public,Seoul,University Of Seoul ,Other trainees,0
+2023,University,Private,Ulsan,University Of Ulsan ,Humanities and social science field,161
+2023,University,Private,Ulsan,University Of Ulsan ,Natural science field,7
+2023,University,Private,Ulsan,University Of Ulsan ,Engineering field,27
+2023,University,Private,Ulsan,University Of Ulsan ,Arts and physical education field,15
+2023,University,Private,Ulsan,University Of Ulsan ,Medicine field,0
+2023,University,Private,Ulsan,University Of Ulsan ,Students for language course,0
+2023,University,Private,Ulsan,University Of Ulsan ,Exchange students,87
+2023,University,Private,Ulsan,University Of Ulsan ,Visiting students,0
+2023,University,Private,Ulsan,University Of Ulsan ,Other trainees,0
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Humanities and social science field,28
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Natural science field,14
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Engineering field,0
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Arts and physical education field,13
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Medicine field,0
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Students for language course,0
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Exchange students,0
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Visiting students,0
+2023,Cyber University (University),Private,Jeollabuk-do,Wonkwang Digital University ,Other trainees,0
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Humanities and social science field,17
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Natural science field,8
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Engineering field,8
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Arts and physical education field,3
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Medicine field,1
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Students for language course,0
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Exchange students,49
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Visiting students,0
+2023,University,Private,Jeollabuk-do,Wonkwang University ,Other trainees,0
+2023,University,Private,Daejeon,Woosong University ,Humanities and social science field,1215
+2023,University,Private,Daejeon,Woosong University ,Natural science field,3
+2023,University,Private,Daejeon,Woosong University ,Engineering field,209
+2023,University,Private,Daejeon,Woosong University ,Arts and physical education field,212
+2023,University,Private,Daejeon,Woosong University ,Medicine field,0
+2023,University,Private,Daejeon,Woosong University ,Students for language course,59
+2023,University,Private,Daejeon,Woosong University ,Exchange students,495
+2023,University,Private,Daejeon,Woosong University ,Visiting students,1
+2023,University,Private,Daejeon,Woosong University ,Other trainees,0
+2023,University,Private,Jeollabuk-do,Woosuk University ,Humanities and social science field,493
+2023,University,Private,Jeollabuk-do,Woosuk University ,Natural science field,62
+2023,University,Private,Jeollabuk-do,Woosuk University ,Engineering field,45
+2023,University,Private,Jeollabuk-do,Woosuk University ,Arts and physical education field,6
+2023,University,Private,Jeollabuk-do,Woosuk University ,Medicine field,1
+2023,University,Private,Jeollabuk-do,Woosuk University ,Students for language course,22
+2023,University,Private,Jeollabuk-do,Woosuk University ,Exchange students,11
+2023,University,Private,Jeollabuk-do,Woosuk University ,Visiting students,0
+2023,University,Private,Jeollabuk-do,Woosuk University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Humanities and social science field,476
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Natural science field,23
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Engineering field,89
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Arts and physical education field,27
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Students for language course,219
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Exchange students,101
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Yeungnam University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Humanities and social science field,0
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Natural science field,0
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Engineering field,0
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Arts and physical education field,5
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Medicine field,0
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Students for language course,25
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Exchange students,0
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Visiting students,0
+2023,University,Private,Gyeonggi-do,Yewon Arts University _Campus 2,Other trainees,0
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Humanities and social science field,0
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Natural science field,0
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Engineering field,0
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Arts and physical education field,370
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Medicine field,0
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Students for language course,0
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Exchange students,0
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Visiting students,0
+2023,University,Private,Jeollabuk-do,Yewon Arts University ,Other trainees,0
+2023,University,Private,Gyeonggi-do,Yong In University ,Humanities and social science field,21
+2023,University,Private,Gyeonggi-do,Yong In University ,Natural science field,1
+2023,University,Private,Gyeonggi-do,Yong In University ,Engineering field,0
+2023,University,Private,Gyeonggi-do,Yong In University ,Arts and physical education field,43
+2023,University,Private,Gyeonggi-do,Yong In University ,Medicine field,0
+2023,University,Private,Gyeonggi-do,Yong In University ,Students for language course,261
+2023,University,Private,Gyeonggi-do,Yong In University ,Exchange students,0
+2023,University,Private,Gyeonggi-do,Yong In University ,Visiting students,0
+2023,University,Private,Gyeonggi-do,Yong In University ,Other trainees,0
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Humanities and social science field,357
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Natural science field,37
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Engineering field,20
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Arts and physical education field,0
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Medicine field,9
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Students for language course,37
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Exchange students,22
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Visiting students,0
+2023,University,Private,Gangwon-do,Yonsei University MIRAE Campus _Branch campus,Other trainees,0
+2023,University,Private,Seoul,Yonsei University ,Humanities and social science field,1677
+2023,University,Private,Seoul,Yonsei University ,Natural science field,147
+2023,University,Private,Seoul,Yonsei University ,Engineering field,194
+2023,University,Private,Seoul,Yonsei University ,Arts and physical education field,4
+2023,University,Private,Seoul,Yonsei University ,Medicine field,8
+2023,University,Private,Seoul,Yonsei University ,Students for language course,1244
+2023,University,Private,Seoul,Yonsei University ,Exchange students,502
+2023,University,Private,Seoul,Yonsei University ,Visiting students,362
+2023,University,Private,Seoul,Yonsei University ,Other trainees,0
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Humanities and social science field,10
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Natural science field,0
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Engineering field,0
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Arts and physical education field,0
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Medicine field,0
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Students for language course,0
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Exchange students,0
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Visiting students,0
+2023,University,Private,Gyeongsangbuk-do,Youngnam Theological University & Seminary ,Other trainees,0
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Humanities and social science field,3
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Natural science field,0
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Engineering field,0
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Arts and physical education field,0
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Medicine field,0
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Students for language course,0
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Exchange students,0
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Visiting students,0
+2023,University,Private,Jeollanam-do,Youngsan University Of Seon Studies ,Other trainees,0
+2023,University,Private,Busan,Youngsan University _Campus 2,Humanities and social science field,339
+2023,University,Private,Busan,Youngsan University _Campus 2,Natural science field,3
+2023,University,Private,Busan,Youngsan University _Campus 2,Engineering field,0
+2023,University,Private,Busan,Youngsan University _Campus 2,Arts and physical education field,29
+2023,University,Private,Busan,Youngsan University _Campus 2,Medicine field,0
+2023,University,Private,Busan,Youngsan University _Campus 2,Students for language course,148
+2023,University,Private,Busan,Youngsan University _Campus 2,Exchange students,9
+2023,University,Private,Busan,Youngsan University _Campus 2,Visiting students,0
+2023,University,Private,Busan,Youngsan University _Campus 2,Other trainees,0
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Humanities and social science field,1
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Natural science field,0
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Engineering field,6
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Arts and physical education field,0
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Medicine field,0
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Students for language course,0
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Exchange students,0
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Visiting students,0
+2023,University,Private,Gyeongsangnam-do,Youngsan University ,Other trainees,0
+NA,NA,NA,NA,NA,Humanities and social science field,NA
+NA,NA,NA,NA,NA,Natural science field,NA
+NA,NA,NA,NA,NA,Engineering field,NA
+NA,NA,NA,NA,NA,Arts and physical education field,NA
+NA,NA,NA,NA,NA,Medicine field,NA
+NA,NA,NA,NA,NA,Students for language course,NA
+NA,NA,NA,NA,NA,Exchange students,NA
+NA,NA,NA,NA,NA,Visiting students,NA
+NA,NA,NA,NA,NA,Other trainees,NA
