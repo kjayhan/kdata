@@ -1,7 +1,7 @@
 Package: kdata
 Type: Package
 Title: kdata: Korean Culture, Business, and Education Data
-Version: 0.1.4.9001
+Version: 0.1.4.9002
 Authors@R: c(person("Kadir Jun Ayhan",
     role = c("aut", "cre"),
     email = "k@ayhan.phd",
