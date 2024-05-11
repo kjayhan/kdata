@@ -12,7 +12,7 @@
 #'
 #'
 #'
-#' @format A data frame with 27 variables:
+#' @format A data frame with 21 variables:
 #' \describe{
 #'   \item{\code{festival_kr}}{The name of the festival in Korean.}
 #'   \item{\code{festival_en}}{The English translation of the festival's name.}
