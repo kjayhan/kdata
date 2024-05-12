@@ -1,11 +1,9 @@
 
 # `kdata`: Korean Culture, Business, and Education Data
 
-I will share Korea-related datasets and tools to analyze the data in
-`{kdata}` package.
-
-Let me know if you want me to share specific data that you are
-interested in.
+I share Korea-related datasets and tools to analyze the data in
+`{kdata}` package. You can use \#kdata and \#kdataviz to share your work
+using these data on social media.
 
 ## Datasets
 
